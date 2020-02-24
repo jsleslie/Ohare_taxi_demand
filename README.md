@@ -1,4 +1,4 @@
-# Prediction hourly taxi rides at Chicago's O'hare airport
+## Predicting hourly taxi rides at Chicago's O'hare airport
 
 Authors: Jarome Leslie, Derek Kruszewski
 
