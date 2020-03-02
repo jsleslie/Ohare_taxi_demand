@@ -9,5 +9,6 @@ Taxi data for O'Hare International Airport ("ORD") was obtained from the City of
 
 **Weather data**
 
+Weather data for O'Hare Internation Airport ("ORD") was obtained from the Iowa State University Iowa Environmental Mesonet ASOS Network accessed [here](https://mesonet.agron.iastate.edu/ASOS/)
 
 **Flights data**
