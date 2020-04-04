@@ -1,0 +1,1281 @@
+,airline,IATA_code,plane,seat_count
+0,Aegean Airlines,A3, Airbus A319 (319),138
+1,Aegean Airlines,A3, Airbus A320 (320),174
+2,Aegean Airlines,A3, Airbus A321 (321),196
+3,Aegean Airlines,A3, ATR 42-600 (ATR),48
+4,Aegean Airlines,A3, Bombardier Q400 (DH4),78
+5,Aer Lingus,EI, Airbus A330-200 (332) Layout 1,271
+6,Aer Lingus,EI, Airbus A330-200 (332) Layout 2,266
+7,Aer Lingus,EI, Airbus A330-300 (333),317
+8,Aer Lingus,EI, Airbus A320 (320),174
+9,Aer Lingus,EI, Airbus A321 (321),212
+10,Aer Lingus,EI, Airbus A321LR (321),184
+11,Aer Lingus,EI, Boeing 757-200 (752),177
+12,Aeroflot,SU, Airbus A330-200 (332),241
+13,Aeroflot,SU, Airbus A330-300 (333) Layout 1,296
+14,Aeroflot,SU, Airbus A330-300 (333) Layout 2,301
+15,Aeroflot,SU, Boeing 777-300ER (773),402
+16,Aeroflot,SU, Airbus A320 (320) Layout 1,140
+17,Aeroflot,SU, Airbus A320 (320) Layout 2,158
+18,Aeroflot,SU, Airbus A321 (321) Layout 1,170
+19,Aeroflot,SU, Airbus A321 (321) Layout 2,183
+20,Aeroflot,SU, Airbus A321 (321) Layout 3,183
+21,Aeroflot,SU, Boeing 737-800 (738),158
+22,Aeroflot,SU, Sukhoi Superjet 100-95B (SU9),87
+23,Aerolineas Argentinas,AR, Airbus A330-200 (332),272
+24,Aerolineas Argentinas,AR, Boeing 737-700 (737),128
+25,Aerolineas Argentinas,AR, Boeing 737-800 (738),170
+26,Aeromexico,AM, Boeing 787-8 (788),243
+27,Aeromexico,AM, Boeing 787-9 (789),274
+28,Aeromexico,AM, Boeing 737 MAX 8 (7M8),166
+29,Aeromexico,AM, Boeing 737-700 (737),124
+30,Aeromexico,AM, Boeing 737-800 (738) Layout 1,160
+31,Aeromexico,AM, Boeing 737-800 (738) Layout 2,186
+32,Aeromexico,AM, Embraer 170 (E70),76
+33,Aeromexico,AM, Embraer 190 (E90) Layout 1,99
+34,Aeromexico,AM, Embraer 190 (E90) Layout 2,98
+35,Air Arabia,G9, Airbus A320 (320),174
+36,Air Arabia,G9, Airbus A321 (321),216
+37,Air Astana,KC, Boeing 767-300ER (76W),223
+38,Air Astana,KC, Airbus A320-200 (320),148
+39,Air Astana,KC, Airbus A320neo (320),148
+40,Air Astana,KC, Airbus A321-200 (321),180
+41,Air Astana,KC, Airbus A321neo (A321),175
+42,Air Astana,KC, Boeing 757-200 (752),166
+43,Air Astana,KC, Embraer E-190 (E90) Layout 1,97
+44,Air Astana,KC, Embraer E-190-E2 (E90) Layout 2,108
+45,Air Austral,UU, Boeing 777-300ER (77W),438
+46,Air Austral,UU, Boeing 787-8 (788),262
+47,Air Austral,UU, Boeing 737-800 (738),162
+48,Air Austral,UU, ATR 72-500 (AT7),64
+49,Air Baltic,BT, Airbus A220-300 (CS3),145
+50,Air Baltic,BT, Boeing 737-300 (733),144
+51,Air Baltic,BT, Boeing 737-500 (735),120
+52,Air Baltic,BT, Bombardier Q400 (DH4),76
+53,Air Belgium,KF, Airbus A340-300 (343) Layout 1,257
+54,Air Belgium,KF, Airbus A340-300 (343) Layout 2,265
+55,Air Canada,AC, Airbus A330-300 (333) Layout 1,292
+56,Air Canada,AC, Airbus A330-300 (333) Layout 2,285
+57,Air Canada,AC, Boeing 767-300ER (763),211
+58,Air Canada,AC, Boeing 777-200LR (77L) Three Class,300
+59,Air Canada,AC, Boeing 777-300ER (77W) Three Class Layout 1,400
+60,Air Canada,AC, Boeing 777-300ER (77W) Three Class Layout 2,450
+61,Air Canada,AC, Boeing 787-8 (788),255
+62,Air Canada,AC, Boeing 787-9 (789),298
+63,Air Canada,AC, rouge - Boeing 767-300ER (763),279
+64,Air Canada,AC, Airbus A220-300 (CS3),137
+65,Air Canada,AC, Airbus A319-100 (319),120
+66,Air Canada,AC, Airbus A320-200 (320),146
+67,Air Canada,AC, Airbus A321-200 (321) Layout 1,190
+68,Air Canada,AC, Boeing 737 MAX 8 (7M8),169
+69,Air Canada,AC, Embraer E-175,76
+70,Air Canada,AC, Embraer E-190,97
+71,Air Canada,AC, rouge - Airbus A319-100 (319),136
+72,Air Canada,AC, rouge - Airbus A320-200 (320),162
+73,Air Canada,AC, rouge - Airbus A321-200 (321) Layout 1,200
+74,Air Canada,AC, rouge - Airbus A321-200 (321) Layout 2,220
+75,Air Canada,AC, Bombardier CRJ-100/200,50
+76,Air Canada,AC, Bombardier CRJ-705,75
+77,Air Canada,AC, Bombardier CRJ-900,76
+78,Air Canada,AC,Beechcraft 1900D,18
+79,Air Canada,AC, Bombardier Q400,74
+80,Air Canada,AC, de Havilland Dash 8 (100),37
+81,Air Canada,AC, de Havilland Dash 8 (300),50
+82,Air Caraibes,TX, Airbus A330-200 (332) Layout 1,303
+83,Air Caraibes,TX, Airbus A330-200 (332) Layout 2,318
+84,Air Caraibes,TX, Airbus A330-300 (333) Layout 1,354
+85,Air Caraibes,TX, Airbus A330-300 (333) Layout 2,378
+86,Air Caraibes,TX, Airbus A350-1000 (351),429
+87,Air Caraibes,TX, Airbus A350-900 (359),389
+88,Air Caraibes,TX,ATR 72-500 (ATR),70
+89,Air Caraibes,TX,ATR 72-600 (ATR),74
+90,Air China,CA, Airbus A330-200 (332) Layout 1,237
+91,Air China,CA, Airbus A330-200 (332) Layout 2,284
+92,Air China,CA, Airbus A330-300 (333),301
+93,Air China,CA, Airbus A350-900 (359),312
+94,Air China,CA, Boeing 747-400 (744),344
+95,Air China,CA, Boeing 747-8 (74H),365
+96,Air China,CA, Boeing 777-200 (772),310
+97,Air China,CA, Boeing 777-300ER (77W),311
+98,Air China,CA, Boeing 787-9 (789),293
+99,Air China,CA, Airbus A319 (319),128
+100,Air China,CA, Airbus A320 (320),158
+101,Air China,CA, Airbus A321 (321) Layout 1,185
+102,Air China,CA, Airbus A321 (321) Layout 2,177
+103,Air China,CA, Boeing 737-700 (737),128
+104,Air China,CA, Boeing 737-800 (738) Layout 1,167
+105,Air China,CA, Boeing 737-800 (738) Layout 2,159
+106,Air Corsica,XK, Airbus A320-200 (320),180
+107,Air Corsica,XK, ATR 72-500 (AT7),70
+108,Air Dolomiti,EN, Embraer E-195 (E95),112
+109,Air Europa,UX, Airbus A330-200 (332),299
+110,Air Europa,UX, Boeing 787-8 (788),298
+111,Air Europa,UX, Boeing 787-9 (789) ,335
+112,Air Europa,UX, Boeing 737-800 (738),180
+113,Air Europa,UX, Embraer 195 (E95),122
+114,Air France,AF, Airbus A330-200 (332) Layout 1,208
+115,Air France,AF, Airbus A330-200 (332) Layout 2,224
+116,Air France,AF, Airbus A340-300 (343) ,275
+117,Air France,AF, Airbus A350-900 (359),324
+118,Air France,AF, Airbus A380-800 (380),516
+119,Air France,AF, Boeing 777-200ER (772) Three Class Layout 1,309
+120,Air France,AF, Boeing 777-200ER (772) Three Class Layout 2,280
+121,Air France,AF, Boeing 777-200ER (772) Three Class Layout 3,312
+122,Air France,AF, Boeing 777-200ER (772) Three Class Layout 4,312
+123,Air France,AF, Boeing 777-300ER (77W) Caribbean,468
+124,Air France,AF, Boeing 777-300ER (77W) Four Class Layout 1,296
+125,Air France,AF, Boeing 777-300ER (77W) Four Class Layout 2,322
+126,Air France,AF, Boeing 777-300ER (77W) Three Class,381
+127,Air France,AF, Boeing 787-9 (789) ,276
+128,Air France,AF, Airbus A318 (318),118
+129,Air France,AF, Airbus A319 (319) Layout 1,129
+130,Air France,AF, Airbus A319 (319) Layout 2,142
+131,Air France,AF, Airbus A320 (320) Caribbean,165
+132,Air France,AF, Airbus A320 (320) Layout 1,152
+133,Air France,AF, Airbus A320 (320) Layout 2,158
+134,Air France,AF, Airbus A320 (320) Layout 3,178
+135,Air France,AF, Airbus A321 (321) Layout 1,184
+136,Air France,AF, Airbus A321 (321) Layout 2,212
+137,Air France,AF, Embraer E-170,76
+138,Air France,AF, Embraer E-190,100
+139,Air France,AF,RJ-85 Avroliner (AR8),95
+140,Air France,AF, Bombardier CRJ-1000,100
+141,Air France,AF, Bombardier CRJ-700,72
+142,Air France,AF, Embraer ERJ-145,50
+143,Air France,AF, ATR 42-500 (AT5),48
+144,Air France,AF, ATR 72-500 (AT7),66
+145,Air France,AF, ATR 72-600 (ATR),72
+146,Air India,AI, Boeing 747-400 (744),423
+147,Air India,AI, Boeing 777-200LR (77L),238
+148,Air India,AI, Boeing 777-300ER (77W),342
+149,Air India,AI, Boeing 787-8 (788),256
+150,Air India,AI, Airbus A319 (319) Layout 1,122
+151,Air India,AI, Airbus A319 (319) Layout 2,144
+152,Air India,AI, Airbus A320 (320) Layout 1,168
+153,Air India,AI, Airbus A320 (320) Layout 2,140
+154,Air India,AI, Airbus A321 (321),182
+155,Air India Express,IX, Boeing 737-800 (738),189
+156,Air Macau,NX, Airbus A319-100 (319) Layout 1,122
+157,Air Macau,NX, Airbus A319-100 (319) Layout 2,112
+158,Air Macau,NX, Airbus A320-200 (320) Layout 1,152
+159,Air Macau,NX, Airbus A320-200 (320) Layout 2,158
+160,Air Macau,NX, Airbus A320-200 (320) Layout 3,150
+161,Air Macau,NX, Airbus A320neo (320),158
+162,Air Macau,NX, Airbus A321-200 (321) Layout 1,178
+163,Air Macau,NX, Airbus A321-200 (321) Layout 2,179
+164,Air Macau,NX, Airbus A321-200 (321) Layout 3,182
+165,Air Macau,NX, Airbus A321neo (321),198
+166,Air Malta,KM, Airbus A320 (320) Layout 1,150
+167,Air Malta,KM, Airbus A320 (320) Layout 2,144
+168,Air Mauritius,MK, Airbus A330-200 (332),273
+169,Air Mauritius,MK, Airbus A330neo (339),288
+170,Air Mauritius,MK, Airbus A340-300 (343) Layout 1,302
+171,Air Mauritius,MK, Airbus A340-300 (343) Layout 2,300
+172,Air Mauritius,MK, Airbus A350-900 (359),326
+173,Air Mauritius,MK, Airbus A319 (319),124
+174,Air Mauritius,MK, ATR 72-500 (AT7),72
+175,Air Namibia,SW, Airbus A330-200 (332),244
+176,Air Namibia,SW, Airbus A319-100 (319),112
+177,Air Namibia,SW, Embraer ERJ-135 (ER3),37
+178,Air New Zealand,NZ, Boeing 777-200ER (772),312
+179,Air New Zealand,NZ, Boeing 777-300 (773),342
+180,Air New Zealand,NZ, Boeing 787-9 (789) Layout 1,302
+181,Air New Zealand,NZ, Boeing 787-9 (789) Layout 2,275
+182,Air New Zealand,NZ, Airbus A320 (320) Domestic,171
+183,Air New Zealand,NZ, Airbus A320 (320) International,168
+184,Air New Zealand,NZ, Airbus A320neo (320),165
+185,Air New Zealand,NZ, Airbus A321neo (321),214
+186,Air New Zealand,NZ, ATR 72-500,68
+187,Air New Zealand,NZ, Bombardier Q300,50
+188,Air North,4N, Boeing 737-400 (734),156
+189,Air North,4N, Boeing 737-500 (735),122
+190,Air North,4N,ATR 42-300,22
+191,Air North,4N,Hawker Siddeley HS 748 Layout 1,12
+192,Air North,4N,Hawker Siddeley HS 748 Layout 2,20
+193,Air North,4N,Hawker Siddeley HS 748 Layout 3,32
+194,Air North,4N,Hawker Siddeley HS 748 Layout 4,40
+195,Air Seoul,RS, Airbus A321 (321) Layout 1,195
+196,Air Seoul,RS, Airbus A321 (321) Layout 2,220
+197,Air Serbia,JU, Airbus A330-200 (332),254
+198,Air Serbia,JU, Airbus A319 (319),140
+199,Air Serbia,JU, Airbus A320 (320),170
+200,Air Serbia,JU,Boeing 737-300 (733),144
+201,Air Serbia,JU, ATR 72-200 (ATR),66
+202,Air Serbia,JU, ATR 72-500 (AT7),70
+203,Air Tahiti Nui,TN, Boeing 787-9 (789),294
+204,Air Transat,TS, Airbus A310-300 (313),244
+205,Air Transat,TS, Airbus A330-200 (332) Layout 1,345
+206,Air Transat,TS, Airbus A330-200 (332) Layout 2,332
+207,Air Transat,TS, Airbus A330-300 (333) Layout 1,375
+208,Air Transat,TS, Airbus A330-300 (333) Layout 2,346
+209,Air Transat,TS, Airbus A321-200 (32B) Domestic,186
+210,Air Transat,TS, Airbus A321-200 (32B) International,190
+211,Air Transat,TS, Airbus A321neo LR (321),199
+212,Air Transat,TS, Boeing 737-700 (73G) Domestic,148
+213,Air Transat,TS, Boeing 737-800 (738) Domestic,184
+214,Air Transat,TS, Boeing 737-800 (738) International,189
+215,Air Vanuatu,NF, Boeing 737-800 (73H),170
+216,Air Vanuatu,NF, ATR 72-600 (AT7),70
+217,AirAsia,AK, Airbus A320-200 (320),180
+218,AirAsia,AK, Airbus A320neo (320),186
+219,AirAsia X,D7, Airbus A330-300 (333),377
+220,Aircalin,SB, Airbus A330-200 (332),266
+221,Aircalin,SB, Airbus A330-900neo (339),291
+222,Aircalin,SB, Airbus A320-200 (320),146
+223,Aircalin,SB,Twin Otter DHC6,16
+224,Alaska Airlines,AS, Airbus A319 (319) Layout 1,119
+225,Alaska Airlines,AS, Airbus A319 (319) Layout 2,123
+226,Alaska Airlines,AS, Airbus A320 Layout 1,149
+227,Alaska Airlines,AS, Airbus A320 Layout 2,146
+228,Alaska Airlines,AS, Airbus A320 Layout 3,150
+229,Alaska Airlines,AS, Airbus A321 (321),190
+230,Alaska Airlines,AS, Boeing 737-700 (737),124
+231,Alaska Airlines,AS, Boeing 737-800 (738),159
+232,Alaska Airlines,AS, Boeing 737-900 (739),178
+233,Alaska Airlines,AS, Embraer 175 (E75),76
+234,Alaska Airlines,AS, Bombardier Q400,76
+235,Alitalia,AZ, Airbus A330-200 (332),256
+236,Alitalia,AZ, Boeing 777-200ER (772),293
+237,Alitalia,AZ, Airbus A319 (319) One Class,138
+238,Alitalia,AZ, Airbus A320 (320) Layout 1,165
+239,Alitalia,AZ, Airbus A320 (320) Layout 2,148
+240,Alitalia,AZ, Airbus A321 (321) Layout 1,200
+241,Alitalia,AZ, Airbus A321 (321) Layout 2,186
+242,Alitalia,AZ, Embraer E-175,88
+243,Alitalia,AZ, Embraer E-190,100
+244,Allegiant,G4, Airbus A319 (319),156
+245,Allegiant,G4, Airbus A320 (320),177
+246,American Airlines,AA, Airbus A330-200 (332),247
+247,American Airlines,AA, Airbus A330-300 (333),291
+248,American Airlines,AA, Boeing 767-300 (763),209
+249,American Airlines,AA, Boeing 777-200 (777),273
+250,American Airlines,AA, Boeing 777-300ER (77W),304
+251,American Airlines,AA, Boeing 787-8 (788),234
+252,American Airlines,AA, Boeing 787-9 (789),285
+253,American Airlines,AA, Airbus A319 (319),128
+254,American Airlines,AA, Airbus A320 (320),150
+255,American Airlines,AA, Airbus A321 (321) Layout 1,181
+256,American Airlines,AA, Airbus A321 (321) Layout 2,187
+257,American Airlines,AA, Airbus A321 (32B) Layout 3 ,102
+258,American Airlines,AA, Airbus A321neo ACF,196
+259,American Airlines,AA, Boeing 737 MAX 8 (7M8),172
+260,American Airlines,AA, Boeing 737-800 (738) Layout 1,160
+261,American Airlines,AA, Boeing 737-800 (738) Layout 2,172
+262,American Airlines,AA, Boeing 757-200 (752) Domestic,188
+263,American Airlines,AA, Boeing 757-200 (752) International,176
+264,American Airlines,AA, Embraer ERJ-175 (E75) Layout 1,76
+265,American Airlines,AA, Embraer ERJ-175 (E75) Layout 2,80
+266,American Airlines,AA, Embraer ERJ-190 (E90),99
+267,American Airlines,AA, Bombardier CRJ-200 (CR2),50
+268,American Airlines,AA, Bombardier CRJ-700 (CR7) Layout 1,63
+269,American Airlines,AA, Bombardier CRJ-700 (CR7) Layout 2,70
+270,American Airlines,AA, Bombardier CRJ-700 (CR7) Layout 3,65
+271,American Airlines,AA, Bombardier CRJ-700 (CR7) Layout 4,65
+272,American Airlines,AA, Bombardier CRJ-900 (CR9) Layout 1,76
+273,American Airlines,AA, Bombardier CRJ-900 (CR9) Layout 2,79
+274,American Airlines,AA, Bombardier CRJ-900 (CR9) Layout 3,76
+275,American Airlines,AA, Embraer ERJ-140 (ERD),44
+276,American Airlines,AA, Embraer ERJ-145 (ER4),50
+277,ANA,NH, Airbus A380 (388),480
+278,ANA,NH, Boeing 767-300 (763) Domestic,270
+279,ANA,NH, Boeing 767-300ER (763) Layout 1,202
+280,ANA,NH, Boeing 767-300ER (763) Layout 2,214
+281,ANA,NH, Boeing 777-200 (772) Domestic,402
+282,ANA,NH, Boeing 777-300 (773) Domestic,514
+283,ANA,NH, Boeing 777-300ER (77W) Layout 1,250
+284,ANA,NH, Boeing 777-300ER (77W) Layout 2,212
+285,ANA,NH, Boeing 777-300ER (77W) Layout 3,264
+286,ANA,NH, Boeing 777-300ER (77W) Layout 4,212
+287,ANA,NH, Boeing 787-10 (781),294
+288,ANA,NH, Boeing 787-8 (788) Layout 1,169
+289,ANA,NH, Boeing 787-8 (788) Layout 2,240
+290,ANA,NH, Boeing 787-8 (788) Layout 3 - Domestic,335
+291,ANA,NH, Boeing 787-8 (788) Layout 4,184
+292,ANA,NH, Boeing 787-9 (789) Layout 1,215
+293,ANA,NH, Boeing 787-9 (789) Layout 2,246
+294,ANA,NH, Boeing 787-9 (789) Layout 3 - Domestic,395
+295,ANA,NH, Airbus A320 (320) Layout 1,166
+296,ANA,NH, Airbus A320 (320) Layout 2,146
+297,ANA,NH, Airbus A321neo (321) Domestic,194
+298,ANA,NH, Boeing 737-500 (735) ANA Wings,126
+299,ANA,NH, Boeing 737-700 (737),120
+300,ANA,NH, Boeing 737-800 (738) Layout 1,167
+301,ANA,NH, Boeing 737-800 (738) Layout 2,166
+302,ANA,NH, Bombardier Q400 (DH4) ANA Wings,74
+303,Asiana,OZ, Airbus A330-300 (333) Layout 1,290
+304,Asiana,OZ, Airbus A330-300 (333) Layout 2,275
+305,Asiana,OZ, Airbus A350-900 (359),311
+306,Asiana,OZ, Airbus A380-800 (388) ,495
+307,Asiana,OZ, Boeing 747-400 (747),359
+308,Asiana,OZ, Boeing 767-300 (763),250
+309,Asiana,OZ, Boeing 777-200ER (772) Layout 1,295
+310,Asiana,OZ, Boeing 777-200ER (772) Layout 2,300
+311,Asiana,OZ, Boeing 777-200ER (772) Layout 3,262
+312,Asiana,OZ, Airbus A320-200 (320),143
+313,Asiana,OZ, Airbus A321-100 (321),200
+314,Asiana,OZ, Airbus A321-200 (321) Layout 1,171
+315,Asiana,OZ, Airbus A321-200 (321) Layout 2,177
+316,Asiana,OZ, Airbus A321-200 (321) Layout 3,195
+317,Austrian,OS, Boeing 767-300ER (763),211
+318,Austrian,OS, Boeing 777-200 (772),308
+319,Austrian,OS, Airbus A319 (319),130
+320,Austrian,OS, Airbus A320 (320),160
+321,Austrian,OS, Airbus A321 (321),200
+322,Austrian,OS, Embraer E-195 (E95),112
+323,Austrian,OS, Bombardier Q400 (DH4),76
+324,Avianca,AV, Airbus A330-200 (332) Layout 1,252
+325,Avianca,AV, Airbus A330-200 (332) Layout 2,242
+326,Avianca,AV, Boeing 787-8 (788),250
+327,Avianca,AV, Airbus A318 (318),100
+328,Avianca,AV, Airbus A319 (319),120
+329,Avianca,AV, Airbus A320 (320),150
+330,Avianca,AV, Airbus A321 (321),194
+331,Avianca,AV, Embraer 190 (E90),96
+332,Azerbaijan Hava Yollary,J2, Airbus A340-500 (345),237
+333,Azerbaijan Hava Yollary,J2, Boeing 767-300ER (76W),186
+334,Azerbaijan Hava Yollary,J2, Boeing 787-8 Dreamliner (788),212
+335,Azerbaijan Hava Yollary,J2, Airbus A319 (319),116
+336,Azerbaijan Hava Yollary,J2, Airbus A320 (320),146
+337,Azerbaijan Hava Yollary,J2, Boeing 757-200 (752),180
+338,Azerbaijan Hava Yollary,J2, Embraer E-190 (E90),106
+339,Azores Airlines,S4, Airbus A330-200 (332),283
+340,Azores Airlines,S4, Airbus A320-200 (320) Layout 1,161
+341,Azores Airlines,S4, Airbus A320-200 (320) Layout 2,159
+342,Azores Airlines,S4, Airbus A320-200 (320) Layout 3,160
+343,Azores Airlines,S4, Airbus A321neo (321),186
+344,Azores Airlines,S4, SATA Air Açores - Bombardier Q200 (DH2) Layout 1,37
+345,Azores Airlines,S4, SATA Air Açores - Bombardier Q200 (DH2) Layout 2,29
+346,Azores Airlines,S4, SATA Air Açores - Bombardier Q200 (DH2) Layout 3,21
+347,Azores Airlines,S4, SATA Air Açores - Bombardier Q400 (DH4),80
+348,Azul,AD, Airbus A330-200 (332),271
+349,Azul,AD, Airbus A320neo (320),174
+350,Azul,AD, Embraer E-190 (E90),106
+351,Azul,AD, Embraer E-195 (E95),118
+352,Azul,AD, ATR 72-600 (AT7),70
+353,Bamboo Airways,QH, Airbus A319-100 (319),128
+354,Bamboo Airways,QH, Airbus A320-200 (320),170
+355,Bamboo Airways,QH, Airbus A321neo (321),196
+356,Bangkok Airways,PG, Airbus A319 (319) Layout 1,120
+357,Bangkok Airways,PG, Airbus A319 (319) Layout 2,144
+358,Bangkok Airways,PG, Airbus A320 (320),162
+359,Bangkok Airways,PG, ATR 72-500 (ATR),70
+360,British Airways,BA, Airbus A350-1000 (351),331
+361,British Airways,BA, Airbus A380-800 (388),469
+362,British Airways,BA, Boeing 747-400 (744) Layout 1,345
+363,British Airways,BA, Boeing 747-400 (744) Layout 2,275
+364,British Airways,BA, Boeing 777-200 (772) Four Class,224
+365,British Airways,BA, Boeing 777-200 (772) Gatwick Three Class,332
+366,British Airways,BA, Boeing 777-200 (772) Three Class Layout 1,275
+367,British Airways,BA, Boeing 777-200 (772) Three Class Layout 2,283
+368,British Airways,BA, Boeing 777-200 (772) Three Class Layout 3,336
+369,British Airways,BA, Boeing 777-300 (773),299
+370,British Airways,BA, Boeing 787-10 (781),256
+371,British Airways,BA, Boeing 787-8 (788),214
+372,British Airways,BA, Boeing 787-9 (789),216
+373,British Airways,BA, Airbus A318 (318),32
+374,British Airways,BA, Airbus A319 (319) Domestic Layout 1,143
+375,British Airways,BA, Airbus A319 (319) Domestic Layout 2,132
+376,British Airways,BA, Airbus A319 (319) Domestic Layout 3,144
+377,British Airways,BA, Airbus A319 (319) European,123
+378,British Airways,BA, Airbus A320 (320) Domestic Layout 1,168
+379,British Airways,BA, Airbus A320 (320) Domestic Layout 2 ,171
+380,British Airways,BA, Airbus A320 (320) European,144
+381,British Airways,BA, Airbus A321 (321) Domestic,205
+382,British Airways,BA, Airbus A321 (321) European,177
+383,British Airways,BA, Airbus A321 (321) International,154
+384,British Airways,BA, Airbus A321neo (321) Layout 1,208
+385,British Airways,BA, Airbus A321neo (321) Layout 2,210
+386,British Airways,BA, Embraer E-170 European,76
+387,British Airways,BA, Embraer E-170 UK Domestic,76
+388,British Airways,BA, Embraer E-190 European,98
+389,British Airways,BA, Embraer E-190 UK Domestic,98
+390,Brussels Airlines,SN, Airbus A330-200 (332),272
+391,Brussels Airlines,SN, Airbus A330-300 (333),288
+392,Brussels Airlines,SN, Airbus A319 (319),141
+393,Brussels Airlines,SN, Airbus A320 (320) ,174
+394,Caribbean Airlines,BW, Boeing 737-800 (738),150
+395,Caribbean Airlines,BW, ATR 72-600 (AT7),68
+396,Cathay Dragon,KA, Airbus A330-300 (333) Layout 1,280
+397,Cathay Dragon,KA, Airbus A330-300 (333) Layout 2,307
+398,Cathay Dragon,KA, Airbus A330-300 (333) Layout 3,317
+399,Cathay Dragon,KA, Airbus A320 (320),164
+400,Cathay Dragon,KA, Airbus A321 (321),172
+401,Cathay Pacific,CX, Airbus A330-300 (33E) Two Class Layout 1,262
+402,Cathay Pacific,CX, Airbus A330-300 (33K) Three Class,251
+403,Cathay Pacific,CX, Airbus A330-300 (33P) Two Class Layout 2,317
+404,Cathay Pacific,CX, Airbus A350-1000 (351),334
+405,Cathay Pacific,CX, Airbus A350-900 (35G),280
+406,Cathay Pacific,CX, Boeing 777-200 (772) New Regional,335
+407,Cathay Pacific,CX, Boeing 777-300 (73Z) Layout 2,398
+408,Cathay Pacific,CX, Boeing 777-300ER (73Z) Layout 6,398
+409,Cathay Pacific,CX, Boeing 777-300ER (77A) Layout 4,294
+410,Cathay Pacific,CX, Boeing 777-300ER (77G) Layout 3,340
+411,Cathay Pacific,CX, Boeing 777-300ER (77H) Layout 1,275
+412,Cathay Pacific,CX, Boeing 777-300ER (77K) Layout 5,368
+413,Cayman Airways,KX, Boeing 737-300 (733),122
+414,Cayman Airways,KX,DHC-6 Twin Otter (DHT),17
+415,Cayman Airways,KX, Saab 340B (SFB),34
+416,CEBU Pacific Air,5J, Airbus A330-300 (333),436
+417,CEBU Pacific Air,5J, Airbus A319 (319) ,156
+418,CEBU Pacific Air,5J, Airbus A320 (320),180
+419,CEBU Pacific Air,5J, Airbus A321neo (321),239
+420,CEBU Pacific Air,5J, ATR 72-500,72
+421,China Airlines,CI, Airbus A330-300 (333) Layout 1,313
+422,China Airlines,CI, Airbus A330-300 (333) Layout 2,307
+423,China Airlines,CI, Airbus A350-900 (359),306
+424,China Airlines,CI, Boeing 747-400 (744) V2,375
+425,China Airlines,CI, Boeing 777-300ER (77W),358
+426,China Airlines,CI, Boeing 737-800 (738),158
+427,China Airlines,CI, Embraer E-190,104
+428,China Eastern,MU, Airbus A330-200 (332) Layout 1,264
+429,China Eastern,MU, Airbus A330-200 (33E) Layout 2,234
+430,China Eastern,MU, Airbus A330-200 (33H) Layout 3,232
+431,China Eastern,MU, Airbus A330-300 (333),300
+432,China Eastern,MU, Boeing 777-300ER (77W) ,316
+433,China Eastern,MU, Airbus A319 (319),122
+434,China Eastern,MU, Airbus A320 (320),158
+435,China Eastern,MU, Airbus A321-200 (321),177
+436,China Eastern,MU, Boeing 737-700 (737),134
+437,China Eastern,MU, Boeing 737-800 (738) Layout 1,170
+438,China Eastern,MU, Boeing 737-800 (738) Layout 2,164
+439,China Eastern,MU, Boeing 737-800 (738) Layout 3,146
+440,China Southern,CZ, Airbus A330-200 (332) Layout 1,218
+441,China Southern,CZ, Airbus A330-200 (332) Layout 2,258
+442,China Southern,CZ, Airbus A330-300 (333) Layout 1,284
+443,China Southern,CZ, Airbus A330-300 (333) Layout 2,275
+444,China Southern,CZ, Airbus A380-800 (388) ,506
+445,China Southern,CZ, Boeing 777-200 (772) Layout 1,284
+446,China Southern,CZ, Boeing 777-200 (772) Layout 2,374
+447,China Southern,CZ, Boeing 777-300ER (77W),309
+448,China Southern,CZ, Boeing 787-8 (788),228
+449,China Southern,CZ, Boeing 787-9 (789),297
+450,China Southern,CZ, Airbus A319 (319),122
+451,China Southern,CZ, Airbus A320 (320),152
+452,China Southern,CZ, Airbus A321 (321),179
+453,China Southern,CZ, Boeing 737-300 (733) Layout 1,138
+454,China Southern,CZ, Boeing 737-300 (733) Layout 2,148
+455,China Southern,CZ, Boeing 737-300 (733) Layout 3,140
+456,China Southern,CZ, Boeing 737-300 (733) Layout 4,144
+457,China Southern,CZ, Boeing 737-700 (737) Layout 1,120
+458,China Southern,CZ, Boeing 737-700 (737) Layout 2,128
+459,China Southern,CZ, Boeing 737-700 (737) Layout 3,143
+460,China Southern,CZ, Boeing 737-800 (738) Layout 1,164
+461,China Southern,CZ, Boeing 737-800 (738) Layout 2,161
+462,China Southern,CZ, Boeing 737-800 (738) Layout 3,159
+463,China Southern,CZ, Embraer ERJ-190,98
+464,Condor,DE, Boeing 767-300ER (763) Layout 1,255
+465,Condor,DE, Boeing 767-300ER (763) Layout 2,245
+466,Condor,DE, Boeing 767-300ER (763) Layout 3,253
+467,Condor,DE, Airbus A320-200 (320),164
+468,Condor,DE, Airbus A321-200 (321),208
+469,Condor,DE, Boeing 757-300 (753),262
+470,Copa Airlines,CM, Boeing 737-700 (73G),124
+471,Copa Airlines,CM, Boeing 737-800 (738) Layout 1,160
+472,Copa Airlines,CM, Boeing 737-800 (738) Layout 2,154
+473,Copa Airlines,CM, Embraer E-190 (E90) Layout 1,94
+474,Copa Airlines,CM, Embraer E-190 (E90) Layout 2,100
+475,Croatia Airlines,OU, Airbus A319 (319),144
+476,Croatia Airlines,OU, Airbus A320 (320),174
+477,Croatia Airlines,OU, Bombardier CRJ-1000 (CRK),100
+478,Croatia Airlines,OU, Bombardier Q400 (DH4),76
+479,Czech Airlines,OK, Airbus A330-300 (333),276
+480,Czech Airlines,OK, Airbus A319 (319),134
+481,Czech Airlines,OK, ATR 42-500 (AT5),48
+482,Czech Airlines,OK, ATR 72-500 (AT7),64
+483,Delta,DL, Airbus A330-200 (332),234
+484,Delta,DL, Airbus A330-300 (333),293
+485,Delta,DL, Airbus A330-900neo (339),281
+486,Delta,DL, Airbus A350-900 (359),306
+487,Delta,DL, Boeing 767-300ER (76H/76Z) Layout 3,226
+488,Delta,DL, Boeing 767-300ER (76L) Layout 2,211
+489,Delta,DL, Boeing 767-300ER (76T/76W) Layout 1,208
+490,Delta,DL, Boeing 767-300ER (76Z) Layout 4,226
+491,Delta,DL, Boeing 767-400ER (764) Layout 2,238
+492,Delta,DL, Boeing 767-400ER (76D) Layout 1,246
+493,Delta,DL, Boeing 777-200ER/LR (7CB) Layout 1,288
+494,Delta,DL, Boeing 777-200ER/LR (7HD) Layout 2,296
+495,Delta,DL, Airbus A220-100 (CS1),109
+496,Delta,DL, Airbus A319 (319),132
+497,Delta,DL, Airbus A320 (32K) Layout 1,160
+498,Delta,DL, Airbus A320 (32M) Layout 2,157
+499,Delta,DL, Airbus A321 (321) Layout 1,192
+500,Delta,DL, Airbus A321 (321) Layout 2,192
+501,Delta,DL, Boeing 717-200 (717),110
+502,Delta,DL, Boeing 737-700 (73W),124
+503,Delta,DL, Boeing 737-800 (73H),160
+504,Delta,DL, Boeing 737-900ER (739) ,180
+505,Delta,DL, Boeing 757-200 (757),180
+506,Delta,DL, Boeing 757-200 (75D) ,199
+507,Delta,DL, Boeing 757-200 (75G),169
+508,Delta,DL, Boeing 757-200 (75P) ,193
+509,Delta,DL, Boeing 757-200 (75S) ,168
+510,Delta,DL, Boeing 757-300 (75Y),234
+511,Delta,DL, Embraer E-170 (E70),69
+512,Delta,DL, Embraer E-175 (E75) Layout 1,76
+513,Delta,DL, Embraer E-175 (E75) Layout 2 - SkyWest,70
+514,Delta,DL, McDonnell Douglas MD-88 (M88),149
+515,Delta,DL, McDonnell Douglas MD-90 (M90),158
+516,Delta,DL, Bombardier CRJ-100/200,50
+517,Delta,DL, Bombardier CRJ-700 (CR7),69
+518,Delta,DL, Bombardier CRJ-900 (CR9),76
+519,Delta,DL, Bombardier CRJ-900 Atmosphere Cabin (CR9),70
+520,easyJet,U2, Airbus A319 (319),156
+521,easyJet,U2, Airbus A320 (320) Layout 1,180
+522,easyJet,U2, Airbus A320 (320) Layout 2,186
+523,easyJet,U2, Airbus A321neo,235
+524,Edelweiss Air,WK, Airbus A330-300 (333),315
+525,Edelweiss Air,WK, Airbus A340-300 (343),314
+526,Edelweiss Air,WK, Airbus A320-200 (320),168
+527,Egyptair,MS, Airbus A330-200 (332),268
+528,Egyptair,MS, Airbus A330-300 (333),301
+529,Egyptair,MS, Boeing 777-300ER (77W),346
+530,Egyptair,MS, Boeing 787-9 (789),309
+531,Egyptair,MS, Airbus A320 (320),139
+532,Egyptair,MS, Airbus A321 (321),161
+533,Egyptair,MS, Boeing 737-800 (738) Layout 1,146
+534,Egyptair,MS, Boeing 737-800 (738) Layout 2,154
+535,Egyptair,MS, Embraer E170 (E70),76
+536,EL AL,LY, Boeing 777-200ER (772),279
+537,EL AL,LY, Boeing 787-8 (788),238
+538,EL AL,LY, Boeing 787-9 (789),282
+539,EL AL,LY, Boeing 737-800 (738),166
+540,EL AL,LY, Boeing 737-900 (739),175
+541,Emirates,EK, Airbus A380-800 (388) Three Class Layout 1,489
+542,Emirates,EK, Airbus A380-800 (388) Three Class Layout 2,517
+543,Emirates,EK, Airbus A380-800 (388) Two Class,615
+544,Emirates,EK, Boeing 777-200LR (772) Three Class,266
+545,Emirates,EK, Boeing 777-300ER (77W) Three Class Layout 1,354
+546,Emirates,EK, Boeing 777-300ER (77W) Three Class Layout 2,360
+547,Emirates,EK, Boeing 777-300ER (77W) Two Class,427
+548,Ethiopian Airlines,ET, Airbus A350-900 (350),343
+549,Ethiopian Airlines,ET, Boeing 767-300ER (763),223
+550,Ethiopian Airlines,ET, Boeing 777-200LR (77L),315
+551,Ethiopian Airlines,ET, Boeing 777-300ER (77W),393
+552,Ethiopian Airlines,ET, Boeing 787-8 (788),270
+553,Ethiopian Airlines,ET, Boeing 737-700 (737) ,118
+554,Ethiopian Airlines,ET, Boeing 737-800 (738),154
+555,Ethiopian Airlines,ET, Bombardier Q400 (DH4) Layout 1,71
+556,Ethiopian Airlines,ET, Bombardier Q400 (DH4) Layout 2,78
+557,Etihad,EY, Airbus A330-200,262
+558,Etihad,EY, Airbus A330-300 (333),231
+559,Etihad,EY, Airbus A380-800 (388) ,494
+560,Etihad,EY, Boeing 777-300ER (77W) Three Class,330
+561,Etihad,EY, Boeing 777-300ER (77W) Two Class Layout 1,402
+562,Etihad,EY, Boeing 777-300ER (77W) Two Class Layout 2,370
+563,Etihad,EY, Boeing 787-10 (781),299
+564,Etihad,EY, Boeing 787-9 (789) Layout 1,231
+565,Etihad,EY, Boeing 787-9 (789) Layout 2,299
+566,Etihad,EY, Airbus A320 (320),136
+567,Etihad,EY, Airbus A321 (321),174
+568,Eurowings,EW, Airbus A330-200 (332),310
+569,Eurowings,EW, Airbus A330-300 (333),283
+570,Eurowings,EW, Airbus A319 (319),138
+571,Eurowings,EW, Airbus A320 (320),174
+572,EVA Air,BR, Airbus A330-200 (332),252
+573,EVA Air,BR, Airbus A330-300 (333),309
+574,EVA Air,BR, Boeing 777-300ER (77A/77W) Layout 2,333
+575,EVA Air,BR, Boeing 777-300ER (77B) Layout 4,353
+576,EVA Air,BR, Boeing 777-300ER (77M) Layout 3,323
+577,EVA Air,BR, Boeing 777-300ER (77N/77W) Layout 1,313
+578,EVA Air,BR, Boeing 787-10 (781),342
+579,EVA Air,BR, Boeing 787-9 (789),304
+580,EVA Air,BR, Airbus A321 (321),184
+581,Fiji Airways,FJ, Airbus A330-200 (332),273
+582,Fiji Airways,FJ, Airbus A330-300 (333),313
+583,Fiji Airways,FJ, Airbus A350-900 (359),334
+584,Fiji Airways,FJ, Boeing 737-700 (73H),118
+585,Fiji Airways,FJ, Boeing 737-800 (738) Layout 1,160
+586,Fiji Airways,FJ, Boeing 737-800 (738) Layout 2,170
+587,Fiji Airways,FJ, Aerospatiale/Alenia 42-500 (AT5),44
+588,Fiji Airways,FJ, Aerospatiale/Alenia 72-600 (AT7),68
+589,Fiji Airways,FJ, De Havilland DHC-6 (DHT),12
+590,Finnair,AY, Airbus A330-300 (333) Layout 1,263
+591,Finnair,AY, Airbus A330-300 (333) Layout 2,289
+592,Finnair,AY, Airbus A350-900 Layout 1 (350),297
+593,Finnair,AY, Airbus A350-900 Layout 2 (350),336
+594,Finnair,AY, Airbus A319 (319),131
+595,Finnair,AY, Airbus A320 (320),158
+596,Finnair,AY, Airbus A321 (321) Layout 1,201
+597,Finnair,AY, Airbus A321 (321) Layout 2,188
+598,Finnair,AY, Embraer E-170,76
+599,Finnair,AY, Embraer E-190,100
+600,flydubai,FZ, Boeing 737-800 (738) Layout 1,189
+601,flydubai,FZ, Boeing 737-800 (738) Layout 2,174
+602,FlyOne,5F,Airbus A319-100 (319),132
+603,FlyOne,5F,Airbus A320-200 (320),192
+604,French bee,BF, Airbus A330-300 (333),378
+605,French bee,BF, Airbus A350-900 (359),411
+606,Frontier,F9, Airbus A319 (319) Layout 1,150
+607,Frontier,F9, Airbus A319 (319) Layout 2,138
+608,Frontier,F9, Airbus A320 (320) Layout 1,180
+609,Frontier,F9, Airbus A320 (320) Layout 2,168
+610,Frontier,F9, Airbus A321 (321),230
+611,Garuda Indonesia,GA, Airbus A330-200 (332),222
+612,Garuda Indonesia,GA, Airbus A330-300 (333) Layout 1,251
+613,Garuda Indonesia,GA, Airbus A330-300 (333) Layout 2,287
+614,Garuda Indonesia,GA, Airbus A330-300 (333) Layout 3,360
+615,Garuda Indonesia,GA, Airbus A330-900neo (339),301
+616,Garuda Indonesia,GA, Boeing 777-300ER (77W) Layout 1,318
+617,Garuda Indonesia,GA, Boeing 777-300ER (77W) Layout 2,393
+618,Garuda Indonesia,GA, Boeing 737 MAX 8 (7M8),170
+619,Garuda Indonesia,GA, Boeing 737-800 (738) Layout 1,162
+620,Garuda Indonesia,GA, Boeing 737-800 (738) Layout 2,174
+621,Garuda Indonesia,GA, Bombardier CRJ-1000 ,96
+622,Garuda Indonesia,GA, ATR72-600 (ATR) ,70
+623,Gol,G3, Boeing 737 MAX 8 (7M8) Domestic,186
+624,Gol,G3, Boeing 737 MAX 8 (7M8) International,176
+625,Gol,G3, Boeing 737-700 (737) Domestic,144
+626,Gol,G3, Boeing 737-700 (737) International,128
+627,Gol,G3, Boeing 737-800 (738) Domestic,186
+628,Gol,G3, Boeing 737-800 (738) International,176
+629,Gulf Air,GF, Boeing 787-9 (789),282
+630,Gulf Air,GF, Airbus A320 (320) Layout 1,136
+631,Gulf Air,GF, Airbus A320ER (320) Layout 2,110
+632,Gulf Air,GF, Airbus A321ER (321),169
+633,Hainan Airlines,HU, Airbus A330-200 (332),222
+634,Hainan Airlines,HU, Airbus A330-300 (333),292
+635,Hainan Airlines,HU, Boeing 767-300ER (767),233
+636,Hainan Airlines,HU, Boeing 787-8 (788),213
+637,Hainan Airlines,HU, Boeing 787-9 (789),288
+638,Hainan Airlines,HU, Boeing 737 MAX 8 (7M8),176
+639,Hainan Airlines,HU, Boeing 737-700 (737),148
+640,Hainan Airlines,HU, Boeing 737-800 (738),164
+641,Hawaiian Airlines,HA, Airbus A330-200 (332),278
+642,Hawaiian Airlines,HA, Airbus A321neo (321),189
+643,Hawaiian Airlines,HA, Boeing 717-200 (717),128
+644,Hawaiian Airlines,HA, Aerospatiale ATR-42,48
+645,HK Express,UO, Airbus A320 (320),180
+646,HK Express,UO, Airbus A320neo (320),188
+647,HK Express,UO, Airbus A321 (321),230
+648,Hong Kong Airlines,HX, Airbus A330-200 (332) Layout 1,283
+649,Hong Kong Airlines,HX, Airbus A330-200 (33T) Layout 3,281
+650,Hong Kong Airlines,HX, Airbus A330-200 (33V) Layout 2,264
+651,Hong Kong Airlines,HX, Airbus A330-300 (333) Layout 2,292
+652,Hong Kong Airlines,HX, Airbus A330-300 (33S) Layout 1,285
+653,Hong Kong Airlines,HX, Airbus A350-900 Layout 1 (359),334
+654,Hong Kong Airlines,HX, Airbus A350-900 Layout 2 (35A),334
+655,Hong Kong Airlines,HX, Airbus A320-200 (32H) Layout 2,152
+656,Hong Kong Airlines,HX, Airbus A320-200 (32S) Layout 1,174
+657,Iberia,IB, Airbus A330-200 (332),288
+658,Iberia,IB, Airbus A330-300 (333) Layout 1,278
+659,Iberia,IB, Airbus A330-300 (333) Layout 2,292
+660,Iberia,IB, Airbus A340-600 (346) Layout 1,346
+661,Iberia,IB, Airbus A340-600 (346) Layout 2,355
+662,Iberia,IB, Airbus A350-900 (359),348
+663,Iberia,IB, LEVEL - Airbus A330-200 (332),314
+664,Iberia,IB, Airbus A319 (319) Layout 1,118
+665,Iberia,IB, Airbus A319 (319) Layout 2,208
+666,Iberia,IB, Airbus A320 (320),162
+667,Iberia,IB, Airbus A320 (320) Express,180
+668,Iberia,IB, Airbus A321 (321) Layout 1,174
+669,Iberia,IB, Airbus A321 (321) Layout 2,208
+670,Iberia,IB, LEVEL - Airbus A321-200 (321),212
+671,Iberia,IB, Bombardier CRJ-1000,100
+672,Iberia,IB, Bombardier CRJ-200,50
+673,Iberia,IB, Bombardier CRJ-900 ,90
+674,Iberia,IB, ATR-72,74
+675,Icelandair,FI, Boeing 767-300ER (76W),259
+676,Icelandair,FI, Boeing 737 MAX 8 (7M8),160
+677,Icelandair,FI, Boeing 757-200 (752) Layout 1,183
+678,Icelandair,FI, Boeing 757-200 (752) Layout 2,171
+679,Icelandair,FI, Boeing 757-300 (753),216
+680,IndiGo Airlines,6E, Airbus A320ceo (320) Layout 1,180
+681,IndiGo Airlines,6E, Airbus A320neo (320) Layout 2,186
+682,IndiGo Airlines,6E, Airbus A321neo (321),222
+683,IndiGo Airlines,6E, ATR 72-600 (AT7),74
+684,InterJet,4O, Airbus A320 (320),150
+685,InterJet,4O, Airbus A321neo (321),192
+686,InterJet,4O, Sukhoi Superjet 100-95 (SU9),93
+687,Japan Airlines,JL, Airbus A350-900 (359),369
+688,Japan Airlines,JL, Boeing 767-300 (763) Domestic,261
+689,Japan Airlines,JL, Boeing 767-300 (763) Intl,232
+690,Japan Airlines,JL, Boeing 767-300ER (76W) Layout 1,237
+691,Japan Airlines,JL, Boeing 767-300ER (76W) Layout 2,227
+692,Japan Airlines,JL, Boeing 767-300ER (76W) Layout 3,261
+693,Japan Airlines,JL, Boeing 767-300ER (76W) Layout 4,199
+694,Japan Airlines,JL, Boeing 767-300ER (76W) Layout 5,252
+695,Japan Airlines,JL, Boeing 777-200 (772),375
+696,Japan Airlines,JL, Boeing 777-200ER (772) Layout 1,245
+697,Japan Airlines,JL, Boeing 777-200ER (772) Layout 2,312
+698,Japan Airlines,JL, Boeing 777-200ER (772) Layout 3,302
+699,Japan Airlines,JL, Boeing 777-200ER (772) Layout 4,236
+700,Japan Airlines,JL, Boeing 777-300 (773),500
+701,Japan Airlines,JL, Boeing 777-300ER (773),244
+702,Japan Airlines,JL, Boeing 787-8 (788) Layout 1,186
+703,Japan Airlines,JL, Boeing 787-8 (788) Layout 2,161
+704,Japan Airlines,JL, Boeing 787-8 (788) Layout 3,206
+705,Japan Airlines,JL, Boeing 787-9 (789) Layout 1,195
+706,Japan Airlines,JL, Boeing 787-9 (789) Layout 2,203
+707,Japan Airlines,JL, Boeing 787-9 (789) Layout 3,239
+708,Japan Airlines,JL, Boeing 737-400 (734) One Class,150
+709,Japan Airlines,JL, Boeing 737-400 (734) Two Class,145
+710,Japan Airlines,JL, Boeing 737-800 (738) Domestic,165
+711,Japan Airlines,JL, Boeing 737-800 (738) Intl,144
+712,Japan Airlines,JL, Embraer E-170,76
+713,Japan Airlines,JL, Embraer E-190 (E90) ,95
+714,Japan Airlines,JL, Bombardier CRJ-200,50
+715,Japan Airlines,JL, Bombardier Q100,39
+716,Japan Airlines,JL, Bombardier Q300,50
+717,Japan Airlines,JL, Bombardier Q400,74
+718,Japan Airlines,JL, Saab 340B,36
+719,Jeju Air,7C, Boeing 737-800 (738) Layout 1,186
+720,Jeju Air,7C, Boeing 737-800 (738) Layout 2,189
+721,Jeju Air,7C, Boeing 737-800 (738) Layout 3,174
+722,Jet2,LS, Airbus A330-200,327
+723,Jet2,LS, Airbus A321 (321) Layout 1,218
+724,Jet2,LS, Airbus A321 (321) Layout 2,220
+725,Jet2,LS, Boeing 737-300 (733),148
+726,Jet2,LS, Boeing 737-800 (738),189
+727,Jet2,LS, Boeing 757-200 (752),235
+728,JetBlue,B6, Airbus A320 (320) Layout 1,150
+729,JetBlue,B6, Airbus A320 (32M) Layout 2,162
+730,JetBlue,B6, Airbus A321 (321) Non-Mint,200
+731,JetBlue,B6, Airbus A321 (32S) Mint,159
+732,JetBlue,B6, Airbus A321neo (3N1),200
+733,JetBlue,B6, Embraer E-190 (E90),100
+734,Jetstar,JQ, Boeing 787-8 (788),335
+735,Jetstar,JQ, Airbus A320 (320) Layout 1,180
+736,Jetstar,JQ, Airbus A320 (320) Layout 2 ,186
+737,Jetstar,JQ, Airbus A321 (321) Layout 1,220
+738,Jetstar,JQ, Airbus A321 (321) Layout 2,230
+739,Jin Air,LJ, Boeing 777-200ER (772),393
+740,Jin Air,LJ,Boeing 737-800 (738),189
+741,Kenya Airways,KQ, Boeing 787-8 (788),234
+742,Kenya Airways,KQ, Boeing 737-800 (738) ,145
+743,Kenya Airways,KQ, Embraer E-190 ,96
+744,KLM,KL, Airbus A330-200 (332) Layout 1,243
+745,KLM,KL, Airbus A330-200 (332) Layout 2,268
+746,KLM,KL, Airbus A330-300 (333),292
+747,KLM,KL, Boeing 747-400 (744) Combi New Business,268
+748,KLM,KL, Boeing 747-400 (744) New Business,408
+749,KLM,KL, Boeing 777-200ER (772),316
+750,KLM,KL, Boeing 777-300ER (77W),408
+751,KLM,KL, Boeing 787-10 (781),344
+752,KLM,KL, Boeing 787-9 (789),294
+753,KLM,KL, Boeing 737-700 (737),132
+754,KLM,KL, Boeing 737-800 (738),176
+755,KLM,KL, Boeing 737-900 (739),178
+756,KLM,KL, Embraer E-175,88
+757,KLM,KL, Embraer E-190,100
+758,Korean Air,KE, Airbus A330-200 (332),218
+759,Korean Air,KE, Airbus A330-300 (333) Layout 1,276
+760,Korean Air,KE, Airbus A330-300 (333) Layout 2,272
+761,Korean Air,KE, Airbus A380-800 (388),407
+762,Korean Air,KE, Boeing 747-400 (744),404
+763,Korean Air,KE, Boeing 747-8 (74H),368
+764,Korean Air,KE, Boeing 777-200ER (772) Layout 1,248
+765,Korean Air,KE, Boeing 777-200ER (772) Layout 2,261
+766,Korean Air,KE, Boeing 777-300 (773),338
+767,Korean Air,KE, Boeing 777-300ER (77W) Layout 1,277
+768,Korean Air,KE, Boeing 777-300ER (77W) Layout 2,291
+769,Korean Air,KE, Boeing 787-9 (789),271
+770,Korean Air,KE, Airbus A220-300,130
+771,Korean Air,KE, Boeing 737 MAX 8 (7M8),140
+772,Korean Air,KE, Boeing 737-800 (738) Layout 1,147
+773,Korean Air,KE, Boeing 737-800 (738) Layout 2,138
+774,Korean Air,KE, Boeing 737-900 (739),188
+775,Korean Air,KE, Boeing 737-900ER (739),159
+776,Kulula,MN,Boeing 737-800 (738),189
+777,La Compagnie,B0, Airbus A321neo (321),76
+778,LATAM,LA, Airbus A350-900 (359),339
+779,LATAM,LA, Boeing 767-300ER (76W) Layout 1,233
+780,LATAM,LA, Boeing 767-300ER (76W) Layout 2,221
+781,LATAM,LA, Boeing 777-300ER (77W),410
+782,LATAM,LA, Boeing 787-8 (788),247
+783,LATAM,LA, Boeing 787-9 (789) Layout 1,304
+784,LATAM,LA, Boeing 787-9 (789) Layout 2,303
+785,LATAM,LA, Airbus A319 (319) Layout 1,144
+786,LATAM,LA, Airbus A319 (319) Layout 2,138
+787,LATAM,LA, Airbus A320-200 (320) Layout 1,174
+788,LATAM,LA, Airbus A320-200 (320) Layout 2,168
+789,LATAM,LA, Airbus A320-200 (320) Layout 3,168
+790,LATAM,LA, Airbus A320-200 (320) Layout 4,168
+791,LATAM,LA, Airbus A321-200 (321),198
+792,Lion Airlines,JT, Airbus A330-300 (333),440
+793,Lion Airlines,JT, Boeing 737-300 (733),150
+794,Lion Airlines,JT, Boeing 737-800 (738),189
+795,Lion Airlines,JT, Boeing 737-900 (739) Layout 1,214
+796,Lion Airlines,JT, Boeing 737-900 (739) Layout 2,206
+797,LOT Polish Airlines,LO, Boeing 787-8 (788),252
+798,LOT Polish Airlines,LO, Boeing 787-9 (789),294
+799,LOT Polish Airlines,LO, Boeing 737 MAX 8 (7M8),176
+800,LOT Polish Airlines,LO, Boeing 737-400 (734),144
+801,LOT Polish Airlines,LO, Boeing 737-800 (738),184
+802,LOT Polish Airlines,LO, Embraer ERJ-170 (E70),70
+803,LOT Polish Airlines,LO, Embraer ERJ-175 (E75),82
+804,LOT Polish Airlines,LO, Embraer ERJ-195 (E95),112
+805,Lufthansa,LH, Airbus A330-300 (333) Layout 1,236
+806,Lufthansa,LH, Airbus A330-300 (333) Layout 2,216
+807,Lufthansa,LH, Airbus A330-300 (333) Layout 3,255
+808,Lufthansa,LH, Airbus A340-300 (343) Layout 1,279
+809,Lufthansa,LH, Airbus A340-300 (343) Layout 2,251
+810,Lufthansa,LH, Airbus A340-300 (343) Layout 3,298
+811,Lufthansa,LH, Airbus A340-600 (346) Layout 1,297
+812,Lufthansa,LH, Airbus A340-600 (346) Layout 2,281
+813,Lufthansa,LH, Airbus A350-900 (359) Layout 1,293
+814,Lufthansa,LH, Airbus A350-900 (359) Layout 2,319
+815,Lufthansa,LH, Airbus A380-800 (388),509
+816,Lufthansa,LH, Boeing 747-400 (744) Layout 1,393
+817,Lufthansa,LH, Boeing 747-400 (744) Layout 2,371
+818,Lufthansa,LH, Boeing 747-8 (748),364
+819,Lufthansa,LH, Airbus A319 (319),126
+820,Lufthansa,LH, Airbus A320 (320) Layout 1,154
+821,Lufthansa,LH, Airbus A320 (320) Layout 2,166
+822,Lufthansa,LH, Airbus A321 (321),192
+823,Lufthansa,LH, Airbus A321neo (321),199
+824,Lufthansa,LH, Embraer E-190,100
+825,Lufthansa,LH, Embraer E-195,112
+826,Lufthansa,LH, Bombardier CRJ-900,79
+827,Luxair,LG, Boeing 737-700 (73G),141
+828,Luxair,LG, Boeing 737-800 (738),186
+829,Luxair,LG, Bombardier Q400 (DH4),76
+830,Malaysia Airlines,MH, Airbus A330-200 (332),287
+831,Malaysia Airlines,MH, Airbus A330-300 (333) ,290
+832,Malaysia Airlines,MH, Airbus A350-900 (359),286
+833,Malaysia Airlines,MH, Airbus A380-800 (388),494
+834,Malaysia Airlines,MH, Boeing 737-800 (738) Layout 1,166
+835,Malaysia Airlines,MH, Boeing 737-800 (738) Layout 2,160
+836,Mango,JE, Boeing 737-800 (738),186
+837,Middle East Airlines,ME, Airbus A330-200 (332),244
+838,Middle East Airlines,ME, Airbus A320-200 (320),126
+839,Nok Air,DD, Boeing 737-800 (738),189
+840,Nok Air,DD, ATR 72-200 (ATR),66
+841,Nok Air,DD,Bombardier Q400 (DH4),86
+842,Nordwind Airlines,N4, Airbus A330-200 (332),279
+843,Nordwind Airlines,N4, Boeing 777-200ER (772),393
+844,Nordwind Airlines,N4, Airbus A321 (321),220
+845,Nordwind Airlines,N4, Boeing 737-800 (738),189
+846,Nordwind Airlines,N4, Boeing 767-300ER (763),290
+847,Norwegian Air International,D8, Boeing 737 MAX 8 (7M8),189
+848,Norwegian Air International,D8, Boeing 737-800 (738),186
+849,Norwegian Air Shuttle,DY, Boeing 737 MAX 8 (7M8),189
+850,Norwegian Air Shuttle,DY, Boeing 737-800 (738),186
+851,Norwegian Air Sweden,LE, Boeing 787-9 (789),344
+852,Norwegian Air Sweden,LE, Boeing 737 MAX 8 (7M8),189
+853,Norwegian Air UK,DI, Boeing 787-9,338
+854,Oman Air,WY, Airbus A330-200 (332),216
+855,Oman Air,WY, Airbus A330-300 (333),230
+856,Oman Air,WY, Boeing 787-8 (788) Layout 1,267
+857,Oman Air,WY, Boeing 787-8 (788) Layout 2,234
+858,Oman Air,WY, Boeing 787-9 (789) Layout 1,288
+859,Oman Air,WY, Boeing 787-9 (789) Layout 2,264
+860,Oman Air,WY, Boeing 737-700 (73G),114
+861,Oman Air,WY, Boeing 737-800 (738),156
+862,Oman Air,WY, Boeing 737-900ER (739),183
+863,Pakistan International Airlines,PK, Boeing 777-200ER (772) Layout 1,320
+864,Pakistan International Airlines,PK, Boeing 777-200ER (772) Layout 2,329
+865,Pakistan International Airlines,PK, Boeing 777-200LR (77L),310
+866,Pakistan International Airlines,PK, Boeing 777-300ER (77W),393
+867,Pakistan International Airlines,PK, Airbus A320-200 (320) Layout 1,158
+868,Pakistan International Airlines,PK, Airbus A320-200 (320) Layout 2,180
+869,Pakistan International Airlines,PK, ATR 42-500 (AT5),48
+870,Pakistan International Airlines,PK, ATR 72-500 (AT7),68
+871,Peach,MM, Airbus A320 (320),180
+872,Pegasus Airlines,PC, Airbus A320 (320),180
+873,Pegasus Airlines,PC, Airbus A320neo (320),186
+874,Pegasus Airlines,PC, Boeing 737-800 (738),189
+875,Philippine Airlines,PR, Airbus A330-300 (333) Layout 1,363
+876,Philippine Airlines,PR, Airbus A330-300 (333) Layout 2,309
+877,Philippine Airlines,PR, Airbus A350-900 (359),295
+878,Philippine Airlines,PR, Boeing 777-300ER (777),370
+879,Philippine Airlines,PR, Airbus A320 (320) Layout 1,156
+880,Philippine Airlines,PR, Airbus A320 (320) Layout 2,156
+881,Philippine Airlines,PR, Airbus A320 (320) Layout 3,180
+882,Philippine Airlines,PR, Airbus A321ceo (321),199
+883,Philippine Airlines,PR, Airbus A321neo (321) Layout 1 (LR),168
+884,Philippine Airlines,PR, Airbus A321neo (321) Layout 2 (SR),195
+885,Philippine Airlines,PR,Bombardier Q300 (DH3),56
+886,Philippine Airlines,PR,Bombardier Q400 (DH4),76
+887,Philippine Airlines,PR,Bombardier Q400NG (DH4),86
+888,Porter,PD, Bombardier Q400 (DH4),74
+889,Qantas,QF, Airbus A330-200 (332) International,235
+890,Qantas,QF, Airbus A330-200 (332) Layout 1 (Domestic/Intl),271
+891,Qantas,QF, Airbus A330-200 (332) Layout 2 (Domestic/Intl),251
+892,Qantas,QF, Airbus A330-300 (333),297
+893,Qantas,QF, Airbus A380-800 (388) Layout 1,484
+894,Qantas,QF, Airbus A380-800 (388) Layout 2,485
+895,Qantas,QF, Boeing 747-400 (744),364
+896,Qantas,QF, Boeing 787-9 (789) ,236
+897,Qantas,QF, Boeing 717-200 (717),125
+898,Qantas,QF, Boeing 717-200 (717) Two Class,110
+899,Qantas,QF, Boeing 737-800 (738),174
+900,Qantas,QF, QantasLink - Airbus A320 (320),180
+901,Qantas,QF, Bombardier Q400 (DH4),74
+902,Qantas,QF, de Havilland Dash 8-200 (DH2),36
+903,Qantas,QF, de Havilland Dash 8-300 (DH3),50
+904,Qatar Airways,QR, Airbus A330-200 (332) Layout 1,272
+905,Qatar Airways,QR, Airbus A330-200 (332) Layout 2,260
+906,Qatar Airways,QR, Airbus A330-200 (332) Layout 3,228
+907,Qatar Airways,QR, Airbus A330-200 (332) Layout 4,232
+908,Qatar Airways,QR, Airbus A330-300 (333) Layout 1,305
+909,Qatar Airways,QR, Airbus A330-300 (333) Layout 2,259
+910,Qatar Airways,QR, Airbus A340-600 (346),310
+911,Qatar Airways,QR, Airbus A350-1000 (351) Qsuite Layout,327
+912,Qatar Airways,QR, Airbus A350-900 (350),283
+913,Qatar Airways,QR, Airbus A350-900 (350) QSuites,283
+914,Qatar Airways,QR, Airbus A380 (380),517
+915,Qatar Airways,QR, Boeing 777-200LR (77L),259
+916,Qatar Airways,QR, Boeing 777-200LR (77L) QSuites,272
+917,Qatar Airways,QR, Boeing 777-300ER (77W) Layout 1,358
+918,Qatar Airways,QR, Boeing 777-300ER (77W) Layout 2,412
+919,Qatar Airways,QR, Boeing 777-300ER (77W) Layout 2,335
+920,Qatar Airways,QR, Boeing 777-300ER (77W) Qsuite Layout,354
+921,Qatar Airways,QR, Boeing 787-8 (788),254
+922,Qatar Airways,QR, Airbus A319 (319) Business,40
+923,Qatar Airways,QR, Airbus A319-133LR (319),110
+924,Qatar Airways,QR, Airbus A320 (320) Layout 1,144
+925,Qatar Airways,QR, Airbus A320 (320) Layout 2,132
+926,Qatar Airways,QR, Airbus A321 (321) Layout 1,177
+927,Qatar Airways,QR, Airbus A321 (321) Layout 2,182
+928,Qatar Airways,QR, Airbus A321 (321) Layout 3,196
+929,Regional Express,ZL, SAAB 340B (SF3),33
+930,Rossiya - Russian Airlines,FV, Boeing 747-400 (744) Layout 1,522
+931,Rossiya - Russian Airlines,FV, Boeing 747-400 (744) Layout 2,522
+932,Rossiya - Russian Airlines,FV, Boeing 747-400 (744) Layout 3,447
+933,Rossiya - Russian Airlines,FV, Boeing 777-300 (773),373
+934,Rossiya - Russian Airlines,FV, Boeing 777-300ER (77W),457
+935,Rossiya - Russian Airlines,FV, Airbus A319-100 (319) Layout 1,128
+936,Rossiya - Russian Airlines,FV, Airbus A319-100 (319) Layout 2,132
+937,Rossiya - Russian Airlines,FV, Airbus A320-200 (320) Layout 1,168
+938,Rossiya - Russian Airlines,FV, Airbus A320-200 (320) Layout 2,140
+939,Rossiya - Russian Airlines,FV, Boeing 737-800 (738) Layout 1,189
+940,Rossiya - Russian Airlines,FV, Boeing 737-800 (738) Layout 2,162
+941,Rossiya - Russian Airlines,FV, Boeing 737-800 (738) Layout 3,189
+942,Rossiya - Russian Airlines,FV, Boeing 737-800 (738) Layout 4,168
+943,Royal Air Maroc,AT, Boeing 767-300ER (76W) Layout 1,235
+944,Royal Air Maroc,AT, Boeing 767-300ER (76W) Layout 2,239
+945,Royal Air Maroc,AT, Boeing 767-300ER (76W) Layout 3,236
+946,Royal Air Maroc,AT, Boeing 787-8 (788),274
+947,Royal Air Maroc,AT, Boeing 787-9 (789) ,302
+948,Royal Air Maroc,AT, Boeing 737-700 (73G),114
+949,Royal Air Maroc,AT, Boeing 737-800 (738),159
+950,Royal Air Maroc,AT, Embraer E-190 (E90),96
+951,Royal Air Maroc,AT, ATR 72-600 (AT7),70
+952,Royal Brunei,BI, Boeing 787-8 (788),254
+953,Royal Brunei,BI, Airbus A320 (320) Layout 1,150
+954,Royal Brunei,BI, Airbus A320 (320) Layout 2,150
+955,Royal Jordanian,RJ, Airbus A330-200 (332),283
+956,Royal Jordanian,RJ, Boeing 787-8 (788),270
+957,Royal Jordanian,RJ, Airbus A319 (319),110
+958,Royal Jordanian,RJ, Airbus A320 (320),136
+959,Royal Jordanian,RJ, Airbus A321 (321),167
+960,Royal Jordanian,RJ, Embraer ERJ-175 (E75),72
+961,Royal Jordanian,RJ, Embraer ERJ-195 (E95),100
+962,RwandAir,WB, Airbus A330-200 (332),244
+963,RwandAir,WB, Airbus A330-300 (333),274
+964,RwandAir,WB, Boeing 737-700 (737),120
+965,RwandAir,WB, Boeing 737-800 (738),154
+966,RwandAir,WB, Bombardier CRJ-900 (CR9),75
+967,RwandAir,WB, Bombardier Dash 8 Q400 (DH4),67
+968,Ryanair,FR, Boeing 737-800 (738),189
+969,S7 Airlines,S7, Airbus A319 (319) ,144
+970,S7 Airlines,S7, Airbus A320 (320) Layout 1,158
+971,S7 Airlines,S7, Airbus A320 (320) Layout 2,164
+972,S7 Airlines,S7, Airbus A320 (320) Layout 3,174
+973,S7 Airlines,S7, Airbus A321 (321),197
+974,S7 Airlines,S7, Airbus A321neo (321),203
+975,S7 Airlines,S7, Boeing 737-800 (738),160
+976,SAS,SK, Airbus A330-300 (333),262
+977,SAS,SK, Airbus A340-300 (343),247
+978,SAS,SK, Airbus A350-900 (359),300
+979,SAS,SK, Airbus A319 (319),141
+980,SAS,SK, Airbus A320 (320),168
+981,SAS,SK, Airbus A320neo (320),174
+982,SAS,SK, Airbus A321 (321),198
+983,SAS,SK, Boeing 737-700 (737) Layout 1,141
+984,SAS,SK, Boeing 737-700 (737) Layout 2,140
+985,SAS,SK, Boeing 737-800 (738),181
+986,SAS,SK, Bombardier CRJ-900  (CR9),88
+987,Saudia,SV, Airbus A330-300 (333) Layout 1,298
+988,Saudia,SV, Airbus A330-300 (33D) Layout 2,288
+989,Saudia,SV, Airbus A330-300 (33R) Layout 3,330
+990,Saudia,SV, Boeing 777-200 (772) Three Class,232
+991,Saudia,SV, Boeing 777-200 (772) Two Class,341
+992,Saudia,SV, Boeing 777-300 (773) Three Class Layout 1,305
+993,Saudia,SV, Boeing 777-300 (773) Three Class Layout 2,290
+994,Saudia,SV, Boeing 777-300 (773) Two Class,413
+995,Saudia,SV, Boeing 787-10 (781),357
+996,Saudia,SV, Boeing 787-9 (789),298
+997,Saudia,SV, Airbus A319 (319),48
+998,Saudia,SV, Airbus A320 (320) Layout 1,132
+999,Saudia,SV, Airbus A320 (320) Layout2,116
+1000,Saudia,SV, Airbus A321 (321),165
+1001,Scoot Airlines,TZ, Boeing 787-8 (788) Layout 1,335
+1002,Scoot Airlines,TZ, Boeing 787-8 (788) Layout 2,329
+1003,Scoot Airlines,TZ, Boeing 787-9 (789),375
+1004,Scoot Airlines,TZ, Airbus 319 (319),144
+1005,Scoot Airlines,TZ, Airlines 320 (320),180
+1006,Shanghai Airlines,FM, Airbus A330-200 (332),264
+1007,Shanghai Airlines,FM, Airbus A330-300 (333),300
+1008,Shanghai Airlines,FM, Boeing 767-300 (763),244
+1009,Shanghai Airlines,FM, Boeing 737-700 (737),134
+1010,Shanghai Airlines,FM, Boeing 737-800 (738) ,164
+1011,Silkair,MI, Airbus A319 (319),128
+1012,Silkair,MI, Airbus A320 (320),150
+1013,Silkair,MI, Boeing 737 MAX 8 (7M8),156
+1014,Silkair,MI, Boeing 737-800 (738),162
+1015,Silver,3M, ATR 42-600 (ATR),46
+1016,Silver,3M, ATR 72-600 (ATR),70
+1017,Silver,3M, Saab 340 B (SFB),34
+1018,Silver,3M,Seaborne - DHC-6 Twin Otter Seaplane (DHT),15
+1019,Silver,3M, Seaborne - Saab 340B (SFB),34
+1020,Singapore Airlines,SQ, Airbus A330-300 (333),285
+1021,Singapore Airlines,SQ, Airbus A350-900 (359) Layout 1,253
+1022,Singapore Airlines,SQ, Airbus A350-900 (359) Layout 2,303
+1023,Singapore Airlines,SQ, Airbus A350-900 ULR,161
+1024,Singapore Airlines,SQ, Airbus A380-800 (388) Layout 1,443
+1025,Singapore Airlines,SQ, Airbus A380-800 (388) Layout 2,379
+1026,Singapore Airlines,SQ, Airbus A380-800 (388) Layout 3,475
+1027,Singapore Airlines,SQ, Boeing 777-200 (772),266
+1028,Singapore Airlines,SQ, Boeing 777-200ER (772) Layout 1,271
+1029,Singapore Airlines,SQ, Boeing 777-200ER (772) Layout 2,266
+1030,Singapore Airlines,SQ, Boeing 777-300 (773),284
+1031,Singapore Airlines,SQ, Boeing 777-300ER (77W) Four Class,264
+1032,Singapore Airlines,SQ, Boeing 777-300ER (77W) Three Class,278
+1033,Singapore Airlines,SQ, Boeing 787-10 (781),337
+1034,Skylanes,86, Boeing 777-300ER (777),273
+1035,Skylanes,86, Boeing 737 MAX 8 (7M8),191
+1036,Skylanes,86, Boeing 737-800 (738),156
+1037,South African Airways,SA, Airbus A330-200 (332) ,222
+1038,South African Airways,SA, Airbus A330-300 (333),249
+1039,South African Airways,SA, Airbus A340-300 (343) Layout 1,253
+1040,South African Airways,SA, Airbus A340-300 (343) Layout 2,251
+1041,South African Airways,SA, Airbus A340-600 (346),317
+1042,South African Airways,SA, Airbus A350-900 (359) Layout 1,326
+1043,South African Airways,SA, Airbus A350-900 (359) Layout 2,339
+1044,South African Airways,SA, Airbus A319 (319),120
+1045,South African Airways,SA, Airbus A320 (320),138
+1046,Southwest,WN, Boeing 737 MAX 8 (7M8),175
+1047,Southwest,WN, Boeing 737-700 (737) ,143
+1048,Southwest,WN, Boeing 737-800 (738),175
+1049,SpiceJet,SG, Boeing 737-700 Layout 1,149
+1050,SpiceJet,SG, Boeing 737-700 Layout 2,134
+1051,SpiceJet,SG, Boeing 737-800 (738),189
+1052,SpiceJet,SG, Boeing 737-900ER (739),212
+1053,SpiceJet,SG, Bombardier Q400 (DH4),78
+1054,Spirit,NK, Airbus A319-100 (319),145
+1055,Spirit,NK, Airbus A320-200 (320) Layout 1,182
+1056,Spirit,NK, Airbus A320-200 (320) Layout 2,174
+1057,Spirit,NK, Airbus A320neo (320),182
+1058,Spirit,NK, Airbus A321-200 (321),228
+1059,Spring Airlines,9C, Airbus A320-200 (320),180
+1060,Spring Japan,IJ, Boeing 737-800 (738),189
+1061,SriLankan Airlines,UL, Airbus A330-200 (332) Layout 1,269
+1062,SriLankan Airlines,UL, Airbus A330-200 (332) Layout 2,270
+1063,SriLankan Airlines,UL, Airbus A330-200 (332) Layout 3,274
+1064,SriLankan Airlines,UL, Airbus A330-300 (333),297
+1065,SriLankan Airlines,UL, Airbus A320 (320) Layout 1,150
+1066,SriLankan Airlines,UL, Airbus A320 (320) Layout 2,162
+1067,SriLankan Airlines,UL, Airbus A320 (320) Layout 3,136
+1068,SriLankan Airlines,UL, Airbus A320neo (321),150
+1069,SriLankan Airlines,UL, Airbus A321neo (321),188
+1070,Sun Country,SY, Boeing 737-800 (738),183
+1071,Sunclass Airlines,DK, Airbus A330-200 (332),322
+1072,Sunclass Airlines,DK, Airbus A330-300 (333),396
+1073,Sunclass Airlines,DK, Airbus A321-200 (321),212
+1074,Sunwing,WG, Boeing 737 MAX 8 (7M8),189
+1075,Sunwing,WG, Boeing 737-800 (738),189
+1076,SWISS,LX, Airbus A330-300 (333),236
+1077,SWISS,LX, Airbus A340-300 (343),219
+1078,SWISS,LX, Boeing 777-300ER (77W),340
+1079,SWISS,LX, Airbus A220-100 (CS1),125
+1080,SWISS,LX, Airbus A220-300 (CS3),145
+1081,SWISS,LX, Airbus A319-100 (319),138
+1082,SWISS,LX, Airbus A320-200 (320),180
+1083,SWISS,LX, Airbus A320neo (32A),180
+1084,SWISS,LX, Airbus A321-111 (321),219
+1085,SWISS,LX, Embraer 190 (E90),112
+1086,Swoop,WO, Boeing 737-800 (738),189
+1087,TAAG,DT, Boeing 777-200ER (772),255
+1088,TAAG,DT, Boeing 777-300ER (77W),292
+1089,TAAG,DT, Boeing 737-700 (73G),150
+1090,TACA,TA, Airbus A330-200 (332),252
+1091,TACA,TA, Airbus A319 (319),120
+1092,TACA,TA, Airbus A320 (320),150
+1093,TACA,TA, Airbus A321 (321),194
+1094,TACA,TA, Embraer E-190,96
+1095,TAP Portugal,TP, Airbus A330-200 (332) Layout 1,263
+1096,TAP Portugal,TP, Airbus A330-200 (332) Layout 2,268
+1097,TAP Portugal,TP, Airbus A330-200 (332) Layout 3,271
+1098,TAP Portugal,TP, Airbus A330-200 (332) Layout 4,268
+1099,TAP Portugal,TP, Airbus A330-200 (332) Layout 5,269
+1100,TAP Portugal,TP, Airbus A330-900neo (339),298
+1101,TAP Portugal,TP, Airbus A319 (319) Layout 1,140
+1102,TAP Portugal,TP, Airbus A319 (319) Layout 2,132
+1103,TAP Portugal,TP, Airbus A320 (320),156
+1104,TAP Portugal,TP, Airbus A321 (321),206
+1105,TAP Portugal,TP, Airbus A321LR (321),171
+1106,TAP Portugal,TP, Embraer E190 (E90),106
+1107,THAI,TG, Airbus A330-300 (333) Layout 1,299
+1108,THAI,TG, Airbus A330-300 (333) Layout 2,294
+1109,THAI,TG, Airbus A350-900 (359),321
+1110,THAI,TG, Airbus A380-800 (388),507
+1111,THAI,TG, Boeing 747-400 (744),389
+1112,THAI,TG, Boeing 777-200 (772),309
+1113,THAI,TG, Boeing 777-200ER (772),292
+1114,THAI,TG, Boeing 777-300 (773),364
+1115,THAI,TG, Boeing 777-300ER (77W),348
+1116,THAI,TG, Boeing 787-8 (788),264
+1117,THAI,TG, Boeing 787-9 (789),298
+1118,THAI,TG, Airbus A320 (320),172
+1119,tigerair Australia,TT, Airbus A320 (320),180
+1120,tigerair Australia,TT, Boeing 737-800 (738),180
+1121,Transavia Airlines,HV, Boeing 737-700 (73G),149
+1122,Transavia Airlines,HV, Boeing 737-800 (738),189
+1123,TUI UK,BY, Boeing 767-300ER (763) Layout 1,328
+1124,TUI UK,BY, Boeing 767-300ER (763) Layout 2,287
+1125,TUI UK,BY, Boeing 787-8 (788),288
+1126,TUI UK,BY, Boeing 787-9 (789),345
+1127,TUI UK,BY, Boeing 737-800 (73H),189
+1128,TUI UK,BY, Boeing 757-200 (752),233
+1129,TUIfly,X3, Boeing 737-800 (73H),189
+1130,Tunis Air,TU, Airbus A330-200 (332),266
+1131,Tunis Air,TU, Airbus A319 (319) V1,114
+1132,Tunis Air,TU, Airbus A319 (319) V2,144
+1133,Tunis Air,TU, Airbus A320 (320),154
+1134,Tunis Air,TU, Boeing 737-600 (736),126
+1135,Turkish Airlines,TK, Airbus A330-200 (332) Layout 1,250
+1136,Turkish Airlines,TK, Airbus A330-200 (332) Layout 2,223
+1137,Turkish Airlines,TK, Airbus A330-200 (332) Layout 3,220
+1138,Turkish Airlines,TK, Airbus A330-200 (332) Layout 4,281
+1139,Turkish Airlines,TK, Airbus A330-300 (333),289
+1140,Turkish Airlines,TK, Airbus A340-300 (343),270
+1141,Turkish Airlines,TK, Airbus A350-900 (359),329
+1142,Turkish Airlines,TK, Boeing 777-300ER (77W),349
+1143,Turkish Airlines,TK, Boeing 787-9 (789),300
+1144,Turkish Airlines,TK, Airbus A319 (319),126
+1145,Turkish Airlines,TK, Airbus A320 (320),153
+1146,Turkish Airlines,TK, Airbus A321 (321) Layout 1,188
+1147,Turkish Airlines,TK, Airbus A321 (321) Layout 2,178
+1148,Turkish Airlines,TK, Airbus A321neo (321),182
+1149,Turkish Airlines,TK, Airbus A321neo ACF (321),182
+1150,Turkish Airlines,TK, Boeing 737-700 (737) One Class,149
+1151,Turkish Airlines,TK, Boeing 737-700 (737) Two Class,124
+1152,Turkish Airlines,TK, Boeing 737-800 (738) Layout 1,155
+1153,Turkish Airlines,TK, Boeing 737-800 (738) Layout 2,159
+1154,Turkish Airlines,TK, Boeing 737-800 (738) Layout 3,151
+1155,Turkish Airlines,TK, Boeing 737-900ER (739) Layout 1,151
+1156,Turkish Airlines,TK, Boeing 737-900ER (739) Layout 2,169
+1157,Ukraine International,PS, Boeing 767-300ER (763),261
+1158,Ukraine International,PS, Boeing 777-200ER (77X),361
+1159,Ukraine International,PS, Boeing 737-800 (738),180
+1160,Ukraine International,PS, Boeing 737-900ER (73J) Layout 1,189
+1161,Ukraine International,PS, Boeing 737-900ER (73J) Layout 2,215
+1162,Ukraine International,PS, Embraer E-190 (E90) Layout 1,104
+1163,Ukraine International,PS, Embraer E-190 (E90) Layout 2,104
+1164,United,UA, Boeing 767-300ER (76A) Layout 1,214
+1165,United,UA, Boeing 767-300ER (76C) Layout 3,214
+1166,United,UA, Boeing 767-300ER (76L) Layout 2,167
+1167,United,UA, Boeing 767-400ER (764),242
+1168,United,UA, Boeing 777-200 (772) Layout 1,269
+1169,United,UA, Boeing 777-200 (772) Layout 2,267
+1170,United,UA, Boeing 777-200 (772) Layout 3,364
+1171,United,UA, Boeing 777-200 (772) Layout 4,364
+1172,United,UA, Boeing 777-200 (772) Layout 5,276
+1173,United,UA, Boeing 777-300ER (77W),350
+1174,United,UA, Boeing 787-10 (781),318
+1175,United,UA, Boeing 787-8 (788) Layout 1,219
+1176,United,UA, Boeing 787-8 (788) Layout 2,243
+1177,United,UA, Boeing 787-9 (789) Layout 1,252
+1178,United,UA, Boeing 787-9 (789) Layout 2,257
+1179,United,UA, Airbus A319 (319) Layout 1,128
+1180,United,UA, Airbus A319 (319) Layout 2,126
+1181,United,UA, Airbus A320 (320) ,150
+1182,United,UA, Boeing 737 MAX 9 (7M9),179
+1183,United,UA, Boeing 737-700 (737) Domestic Layout 1,118
+1184,United,UA, Boeing 737-700 (737) Domestic Layout 2,126
+1185,United,UA, Boeing 737-700 (737) Micronesia ,124
+1186,United,UA, Boeing 737-800 (738) Layout 1,154
+1187,United,UA, Boeing 737-800 (738) Layout 2,166
+1188,United,UA, Boeing 737-800 (738) Layout 3,166
+1189,United,UA, Boeing 737-800 (738) Layout 4,166
+1190,United,UA, Boeing 737-900 (739) Layout 1,167
+1191,United,UA, Boeing 737-900 (739) Layout 2,179
+1192,United,UA, Boeing 737-900 (739) Layout 3,179
+1193,United,UA, Boeing 757-200 (752) Layout 1,169
+1194,United,UA, Boeing 757-200 (752) Layout 2,142
+1195,United,UA, Boeing 757-200 (752) Layout 3,176
+1196,United,UA, Boeing 757-300 (753),232
+1197,United,UA, Embraer EMB 170 (E70),70
+1198,United,UA, Embraer EMB 175 (E75),76
+1199,United,UA, Embraer ERJ-175 (E75) [SkyWest],76
+1200,United,UA, Bombardier CRJ-200 (CR2),50
+1201,United,UA, Bombardier CRJ-550 (CRJ),50
+1202,United,UA,Bombardier CRJ-700 (CR7),70
+1203,United,UA, Embraer ERJ-135 (ER3),37
+1204,United,UA, Embraer ERJ-145 (ERJ),50
+1205,United,UA, Bombardier Q200 (DH2),37
+1206,United,UA, Bombardier Q300 (DH3),50
+1207,United,UA, Bombardier Q400 (DH4) Layout 1,71
+1208,United,UA, Bombardier Q400 (DH4) Layout 2,74
+1209,United,UA, Embraer EMB-120 (EM2) Layout 1,30
+1210,United,UA, Embraer EMB-120 (EM2) Layout 2,30
+1211,United,UA, Saab 340B (SF3),34
+1212,Ural Airlines,U6, Airbus A319-100 (319),134
+1213,Ural Airlines,U6, Airbus A320-200 (320),156
+1214,Ural Airlines,U6, Airbus A321-200 (321),220
+1215,UTair Aviation,UT, Boeing 767-200ER (762),249
+1216,UTair Aviation,UT, Boeing 737-400 (734),159
+1217,UTair Aviation,UT, Boeing 737-500 (735),126
+1218,UTair Aviation,UT, Boeing 737-800 (738) V1,159
+1219,UTair Aviation,UT, Boeing 737-800 (738) V2,186
+1220,UTair Aviation,UT, ATR 72-500 (AT7),70
+1221,Uzbekistan Airways,HY, Boeing 767-300ER (76L),264
+1222,Uzbekistan Airways,HY, Boeing 787-8 (788) Layout 1,246
+1223,Uzbekistan Airways,HY, Boeing 787-8 (788) Layout 2,270
+1224,Uzbekistan Airways,HY, Airbus A320-214 (320),150
+1225,Uzbekistan Airways,HY, Boeing 757-200 (752) Layout 1,184
+1226,Uzbekistan Airways,HY, Boeing 757-200 (752) Layout 2,190
+1227,Vietnam Airlines,VN, Airbus A350-900 (350) Layout 1,305
+1228,Vietnam Airlines,VN, Airbus A350-900 (350) Layout 2,305
+1229,Vietnam Airlines,VN, Boeing 787-9 (789) Layout 1,274
+1230,Vietnam Airlines,VN, Boeing 787-9 (789) Layout 2,311
+1231,Vietnam Airlines,VN, Airbus A321-200 (321) Layout 1,178
+1232,Vietnam Airlines,VN, Airbus A321-200 (321) Layout 2,184
+1233,Vietnam Airlines,VN, Airbus A321-200 (321) Layout 3,204
+1234,Vietnam Airlines,VN, ATR 72-500 (AT7),66
+1235,Virgin Atlantic,VS, Airbus A330-200 (332) Layout 1,266
+1236,Virgin Atlantic,VS, Airbus A330-200 (332) Layout 2,267
+1237,Virgin Atlantic,VS, Airbus A330-300 (333),264
+1238,Virgin Atlantic,VS, Airbus A340-600 (346),308
+1239,Virgin Atlantic,VS, Airbus A350-1000 (351),335
+1240,Virgin Atlantic,VS, Boeing 747-400 (744),455
+1241,Virgin Atlantic,VS, Boeing 787-9 (789) ,258
+1242,Virgin Australia,VA, Airbus A330-200 (332),275
+1243,Virgin Australia,VA, Boeing 777-300ER (773),339
+1244,Virgin Australia,VA, Airbus A320 (320),162
+1245,Virgin Australia,VA, Boeing 737-700 (737),128
+1246,Virgin Australia,VA, Boeing 737-800 (73H),176
+1247,Virgin Australia,VA, Fokker F-100,100
+1248,Virgin Australia,VA,ATR 72-500,68
+1249,Vistara,UK, Airbus A320ceo & neo (320),158
+1250,Viva Aerobus,VB, Airbus A320 (320),180
+1251,Viva Aerobus,VB, Airbus A320neo (320),186
+1252,Volaris,Y4, Airbus A319 (319),144
+1253,Volaris,Y4, Airbus A320 (320),174
+1254,Volaris,Y4, Airbus A320neo (320),186
+1255,Volaris,Y4, Airbus A321 (321),220
+1256,Volotea,V7, Airbus A319-100 (319) Layout 1,150
+1257,Volotea,V7, Airbus A319-100 (319) Layout 2,156
+1258,Volotea,V7, Airbus A320-200 (320),180
+1259,Volotea,V7, Boeing 717-200 (717),125
+1260,Vueling Airlines,VY, Airbus A319 (319),144
+1261,Vueling Airlines,VY, Airbus A320 (320),180
+1262,Vueling Airlines,VY, Airbus A321 (321),220
+1263,WestJet,WS, Boeing 767-300ER (76W),262
+1264,WestJet,WS, Boeing 787-9,320
+1265,WestJet,WS, Boeing 737 MAX 8 (7M8),174
+1266,WestJet,WS, Boeing 737-600 (736),113
+1267,WestJet,WS, Boeing 737-700 (737),130
+1268,WestJet,WS, Boeing 737-800 (738),174
+1269,WestJet,WS, Bombardier Q400,78
+1270,Wizzair,W6, Airbus A320 (320),180
+1271,Wizzair,W6, Airbus A321 (321),230
+1272,Xiamen Airlines,MF, Boeing 787-8 (788),237
+1273,Xiamen Airlines,MF, Boeing 787-9 (789),290
+1274,Xiamen Airlines,MF, Boeing 737-700 (73G),128
+1275,Xiamen Airlines,MF, Boeing 737-800 (738) Layout 2,170
+1276,Xiamen Airlines,MF, Boeing 737-800 (738) Layout 3,164
+1277,Xiamen Airlines,MF, Boeing 737-800 (738) One Class,184
+1278,Xiamen Airlines,MF, Boeing 757-200 (752) Layout 1,174
+1279,Xiamen Airlines,MF, Boeing 757-200 (752) Layout 2,180
