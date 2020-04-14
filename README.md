@@ -86,4 +86,10 @@ Weather data for O'Hare Internation Airport ("ORD") was obtained from the Iowa S
  - `placeholder3`; and
  - `wind_chill` in Farenheit.
 
+The `download_weather.py` script found [here](https://github.com/jsleslie/Ohare_taxi_demand/blob/master/src/download_weather.py) was used to download the weather data as shown below.
+
+```
+python download_weather.py http://mesonet.agron.iastate.edu/cgi-bin/request/asos.py?
+```
+
 **Flights data**
