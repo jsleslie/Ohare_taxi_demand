@@ -32,7 +32,7 @@ Next, SQL was used to select datetime parameters `YEAR`, `MONTH`, `DAY` and `HOU
 
 ### Figure 1: Chicago community area map highlighting O'hare International Airport 
 
-<div style="text-align:center"><img src='img/chicago-community-areas-map.jpg' width=600 /></div>
+<div style="text-align:center"><img src='img/chicago-community-areas-map-76.jpeg' width=600 /></div>
 
 Source: [City of Chicago](http://ontheworldmap.com/usa/city/chicago/chicago-community-areas-map.jpg)
 
