@@ -93,3 +93,23 @@ python download_weather.py http://mesonet.agron.iastate.edu/cgi-bin/request/asos
 ```
 
 **Flights data**
+
+Data related to passenger arrivals was collected from four sources. As seen in Figure 2 below, data was first collected from the US Bureau of Transportation's Flight On-time Performance ("OTP") dataset found [here](https://www.transtats.bts.gov/DL_SelectFields.asp?Table_ID=236), the Federal Aviation Administration's Registry on N-Numbers found [here](https://registry.faa.gov/aircraftinquiry/nnum_inquiry.aspx), the US Bureau of Transportation's Air Carrier's dataset, and airline fleet descriptions found on Wikipedia.
+
+**Figure 2. Flight data collection steps**
+
+<img src="img/flight_data_collection.png" width =500  />
+
+The flight data was obtained using the `otp_download.py` using the following commands:
+
+```
+python src/otp_download.py
+python src/seats_download.py
+```
+
+These were subsequently merged together using the command: 
+
+```
+python src/wrangle_seats.py
+```
+
