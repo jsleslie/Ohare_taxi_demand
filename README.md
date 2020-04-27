@@ -38,7 +38,7 @@ Next, SQL was used to select datetime parameters `YEAR`, `MONTH`, `DAY` and `HOU
 
 ### Figure 1: Chicago community area map highlighting O'hare International Airport 
 
-<div style="text-align:center"><img src='img/chicago-community-areas-map-76.jpeg' width=600 /></div>
+<p align="center"> <img src='img/chicago-community-areas-map-76.jpeg' width=600 /></p>
 
 Source: [City of Chicago](http://ontheworldmap.com/usa/city/chicago/chicago-community-areas-map.jpg)
 
@@ -98,7 +98,7 @@ Data related to passenger arrivals was collected from four sources. As seen in F
 
 **Figure 2. Flight data collection steps**
 
-<img src="img/flight_data_collection.png" width =500  />
+<p align="center"> <img src="img/flight_data_collection.png" width =500  /> </p>
 
 The flight data was obtained using the `otp_download.py` using the following commands:
 
