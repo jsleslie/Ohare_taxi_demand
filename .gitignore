@@ -1,5 +1,6 @@
 # Data
 data/ORD_weather.txt
+data/ORD_OTP.csv
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
