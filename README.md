@@ -103,8 +103,9 @@ Data related to passenger arrivals was collected from four sources. As seen in F
 The flight data was obtained using the `otp_download.py` using the following commands:
 
 ```
-python src/otp_download.py
-python src/seats_download.py
+python src/download_otp.py
+python src/download_seats.py
+python src/download_tailnums.py
 ```
 
 These were subsequently merged together using the command: 
