@@ -6,10 +6,11 @@ This project examines whether data on flight arrivals, seat counts, and passenge
 
 ## Table of Contents
 - [Data collection](#data-collection)
-- [Exploratory data analysis]()
-- [Model and feature selection]()
-- [Results discussion]()
-- [Conclusions]()
+- [Exploratory data analysis](#exploratory-data-analysis)
+- [Model and feature selection](#model-and-feature-selection)
+- [Results discussion](#results-discussion)
+- [Conclusions](#conclusions)
+- [References](#references)
 
 
 ## Data collection
@@ -19,7 +20,7 @@ The data collection stage of this project proved non-trivial due to multitude of
 - weather data collection; and
 - passenger arrival estimation.
 
-**Chicago Taxi trips**
+### Chicago Taxi trips
 
 Taxi data for O'Hare International Airport ("ORD") was obtained from the City of Chicago by querying the Chicago Taxi trips dataset in Google's BigQuery datawarehouse via a Kaggle kernel. The Kaggle kernel notebook may be accessed [here](https://www.kaggle.com/jleslie246/querying-ord-trips-from-the-chicago-taxi-dataset). The dataset contains trips dating from 2013 to 2018 from approximately 7,000 licensed cabs in the city operated by private companies.
 
@@ -36,7 +37,7 @@ chicago_taxi = bq_helper.BigQueryHelper(active_project="bigquery-public-data",
 Next, SQL was used to select datetime parameters `YEAR`, `MONTH`, `DAY` and `HOUR` as well as the count of rides leaving the airport region. As seen in the Figure below, O'hare International Airport occupies its own community area in are 76, located in the Northwest corner of the city limits. Lastly, the query output was saved as `.csv` file. 
 
 
-### Figure 1: Chicago community area map highlighting O'hare International Airport 
+**Figure 1: Chicago community area map highlighting O'hare International Airport**
 
 <p align="center"> <img src='img/chicago-community-areas-map-76.jpeg' width=600 /></p>
 
@@ -72,7 +73,7 @@ response1.to_csv('ORD_outbound.csv')
 ```
 
 
-**Weather data**
+### Weather data
 
 Weather data for O'Hare Internation Airport ("ORD") was obtained from the Iowa State University Iowa Environmental Mesonet Automated Surface Observing System ("ASOS") Network, accessed [here](https://mesonet.agron.iastate.edu/ASOS/). ASOS stations are located at airports across the US and support the operations of the National Weather Service, the Federal Aviation Administration, and US Department of Defence. Using there variable descriptions provided [here](https://mesonet.agron.iastate.edu/request/download.phtml?network=IL_ASOS), data was collected for the 2013-2018 period at the hourly level for the following parameters:
  - `temperature` in Farenheit; 
@@ -92,7 +93,7 @@ The `download_weather.py` script found [here](https://github.com/jsleslie/Ohare_
 python download_weather.py http://mesonet.agron.iastate.edu/cgi-bin/request/asos.py?
 ```
 
-**Flights data**
+### Flights data
 
 Data related to passenger arrivals was collected from four sources. As seen in Figure 2 below, data was first collected from the US Bureau of Transportation's Flight On-time Performance ("OTP") dataset found [here](https://www.transtats.bts.gov/DL_SelectFields.asp?Table_ID=236), the Federal Aviation Administration's Registry on N-Numbers found [here](https://registry.faa.gov/aircraftinquiry/nnum_inquiry.aspx), the US Bureau of Transportation's Air Carrier's dataset, and airline fleet descriptions found on Wikipedia.
 
@@ -114,3 +115,24 @@ These were subsequently merged together using the command:
 python src/wrangle_seats.py
 ```
 
+## Exploratory data analysis
+
+## Model and feature selection
+
+## Results discussion
+
+## Conclusions
+
+## References
+
+- *[Automated Surface Observing System Network](https://mesonet.agron.iastate.edu/ASOS/).*  Iowa Environmental Mesonet. Iowa State University. Accessed 2020-05. 
+
+- *[Chicago Taxi Trips](https://www.kaggle.com/chicago/chicago-taxi-trips-bq)*. Kaggle. Accessed 2020-01. 
+
+- Coviensky, A., Katiyal, A., Agrawal, K., and Geary, W. *[Estimating Demand for Taxis at LaGuardia Airport](https://willgeary.github.io/portfolio/assets/images/nycTaxi/report.pdf)*. December 2017.
+
+- *[FAA Registry N-Number Inquiry](https://registry.faa.gov/aircraftinquiry/nnum_inquiry.aspx)*. Federal Aviation Administration. Accessed 2020-04
+
+- *[Reporting Carrier On-Time Performance (1987-present)](https://www.transtats.bts.gov/DL_SelectFields.asp?Table_ID=236)*. US State Department of Transportation. Accessed 2020-04.
+
+- *[T-100 Domestic Segment (All Carriers)](https://www.transtats.bts.gov/DL_SelectFields.asp?Table_ID=311)*. Accessed 2020-04.
