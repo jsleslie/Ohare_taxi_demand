@@ -125,3 +125,14 @@ python src/wrangle_seats.py
 
 ## References
 
+- *[Automated Surface Observing System Network](https://mesonet.agron.iastate.edu/ASOS/).*  Iowa Environmental Mesonet. Iowa State University. Accessed 2020-05. 
+
+- *[Chicago Taxi Trips](https://www.kaggle.com/chicago/chicago-taxi-trips-bq)*. Kaggle. Accessed 2020-01. 
+
+- Coviensky, A., Katiyal, A., Agrawal, K., and Geary, W. *[Estimating Demand for Taxis at LaGuardia Airport](https://willgeary.github.io/portfolio/assets/images/nycTaxi/report.pdf)*. December 2017.
+
+- *[FAA Registry N-Number Inquiry](https://registry.faa.gov/aircraftinquiry/nnum_inquiry.aspx)*. Federal Aviation Administration. Accessed 2020-04
+
+- *[Reporting Carrier On-Time Performance (1987-present)](https://www.transtats.bts.gov/DL_SelectFields.asp?Table_ID=236)*. US State Department of Transportation. Accessed 2020-04.
+
+- *[T-100 Domestic Segment (All Carriers)](https://www.transtats.bts.gov/DL_SelectFields.asp?Table_ID=311)*. Accessed 2020-04.
