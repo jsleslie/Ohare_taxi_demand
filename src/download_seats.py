@@ -92,7 +92,7 @@ def merge_seats():
     
 def main():
 
-#     download_seats()
+     download_seats()
     merge_seats()
     
 
