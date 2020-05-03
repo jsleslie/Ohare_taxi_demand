@@ -1,8 +1,13 @@
 # Author: Jarome Leslie
-
 # On-Time Performance Data downloader
 # Data taken from https://www.transtats.bts.gov/DL_SelectFields.asp?Table_ID=236
 # Field descriptions provided https://www.transtats.bts.gov/Fields.asp?Table_ID=236
+
+"""This script downloads weather data from for Ohare Airport from the US Bureau of Transportation
+
+Usage: python download_otp.py
+"""
+
 
 import requests
 from selenium import webdriver

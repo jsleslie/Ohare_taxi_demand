@@ -1,4 +1,11 @@
 # Author: Jarome Leslie
+# Tail number downloader 
+
+"""This script downloads tail number data from for Ohare Airport from the US Federal Aviation Administration
+
+Usage: python download_tailnums.py
+"""
+
 
 
 import requests
