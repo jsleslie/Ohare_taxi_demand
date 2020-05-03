@@ -38,7 +38,7 @@ Next, SQL was used to select datetime parameters `YEAR`, `MONTH`, `DAY` and `HOU
 
 ### Figure 1: Chicago community area map highlighting O'hare International Airport 
 
-<div style="text-align:center"><img src='img/chicago-community-areas-map-76.jpeg' width=600 /></div>
+<p align="center"> <img src='img/chicago-community-areas-map-76.jpeg' width=600 /></p>
 
 Source: [City of Chicago](http://ontheworldmap.com/usa/city/chicago/chicago-community-areas-map.jpg)
 
@@ -93,3 +93,24 @@ python download_weather.py http://mesonet.agron.iastate.edu/cgi-bin/request/asos
 ```
 
 **Flights data**
+
+Data related to passenger arrivals was collected from four sources. As seen in Figure 2 below, data was first collected from the US Bureau of Transportation's Flight On-time Performance ("OTP") dataset found [here](https://www.transtats.bts.gov/DL_SelectFields.asp?Table_ID=236), the Federal Aviation Administration's Registry on N-Numbers found [here](https://registry.faa.gov/aircraftinquiry/nnum_inquiry.aspx), the US Bureau of Transportation's Air Carrier's dataset, and airline fleet descriptions found on Wikipedia.
+
+**Figure 2. Flight data collection steps**
+
+<p align="center"> <img src="img/flight_data_collection.png" width =500  /> </p>
+
+The flight data was obtained using the `otp_download.py` using the following commands:
+
+```
+python src/download_otp.py
+python src/download_seats.py
+python src/download_tailnums.py
+```
+
+These were subsequently merged together using the command: 
+
+```
+python src/wrangle_seats.py
+```
+
