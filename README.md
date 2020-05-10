@@ -75,17 +75,7 @@ response1.to_csv('ORD_outbound.csv')
 
 ### Weather data
 
-Weather data for O'Hare Internation Airport ("ORD") was obtained from the Iowa State University Iowa Environmental Mesonet Automated Surface Observing System ("ASOS") Network, accessed [here](https://mesonet.agron.iastate.edu/ASOS/). ASOS stations are located at airports across the US and support the operations of the National Weather Service, the Federal Aviation Administration, and US Department of Defence. Using there variable descriptions provided [here](https://mesonet.agron.iastate.edu/request/download.phtml?network=IL_ASOS), data was collected for the 2013-2018 period at the hourly level for the following parameters:
- - `temperature` in Farenheit; 
- - `dew_point` in Farenheit; 
- - `relative_humidity`;
- - `wind_speed` in knotts;
- - `precipitation` in inches;
- - `visibility` in miles;
- - `placeholder1`;
- - `placeholder2`;
- - `placeholder3`; and
- - `wind_chill` in Farenheit.
+Weather data for O'Hare Internation Airport ("ORD") was obtained from the Iowa State University Iowa Environmental Mesonet Automated Surface Observing System ("ASOS") Network, accessed [here](https://mesonet.agron.iastate.edu/ASOS/). ASOS stations are located at airports across the US and support the operations of the National Weather Service, the Federal Aviation Administration, and US Department of Defence. Using there variable descriptions provided [here](https://mesonet.agron.iastate.edu/request/download.phtml?network=IL_ASOS), data was collected for the 2013-2018 period at the hourly level for the following parameters: `temperature` in Farenheit, `dew_point` in Farenheit, `wind_chill` in Farenheit, `relative_humidity`, `wind_speed` in knotts, `precipitation` in inches, `visibility` in miles; and (`placeholder1`, `placeholder2`, `placeholder3`).
 
 The `download_weather.py` script found [here](https://github.com/jsleslie/Ohare_taxi_demand/blob/master/src/download_weather.py) was used to download the weather data as shown below.
 
@@ -95,13 +85,24 @@ python download_weather.py http://mesonet.agron.iastate.edu/cgi-bin/request/asos
 
 ### Flights data
 
-Data related to passenger arrivals was collected from four sources. As seen in Figure 2 below, data was first collected from the US Bureau of Transportation's Flight On-time Performance ("OTP") dataset found [here](https://www.transtats.bts.gov/DL_SelectFields.asp?Table_ID=236), the Federal Aviation Administration's Registry on N-Numbers found [here](https://registry.faa.gov/aircraftinquiry/nnum_inquiry.aspx), the US Bureau of Transportation's Air Carrier's dataset, and airline fleet descriptions found on Wikipedia.
+Data related to passenger arrivals was collected from four sources. As seen in Figure 2 below, data was first collected from the US Bureau of Transportation's Flight On-time Performance ("OTP") dataset found [here](https://www.transtats.bts.gov/DL_SelectFields.asp?Table_ID=236), the Federal Aviation Administration's ("FAA") Registry on N-Numbers found [here](https://registry.faa.gov/aircraftinquiry/nnum_inquiry.aspx), the US Bureau of Transportation's Air Carrier's dataset, and airline fleet descriptions found on Wikipedia.
 
 **Figure 2. Flight data collection steps**
 
 <p align="center"> <img src="img/flight_data_collection.png" width =500  /> </p>
 
-The flight data was obtained using the `otp_download.py` using the following commands:
+
+The **US Bureau of Transportation's OTP's** dataset contains details for flights going into ORD from 142 airports across the US with the following attributes: `weekday`, `flight date`, `airline code`, `tail number` a FAA unique identifier, `origin` airport codes, `arrival time`, and `arrival delay` in minutes.
+
+The **FAA Registry** was scraped to search for each tail number contained in the OTP dataset. This allows us to augment the data table to include the `manufacturer` and `model number` for each plane which will be useful later in determining the number of seats on each flight.
+
+The **US Bureau of Transportation's Air Carrier's** dataset provides a monthly report on airline route statistics including pertinent information such as `total passengers` transported in the month, `total seats` available for sale, the `departures_performed`, the `airline` and the `aircraft type`. This information was used to calculate the number of seats on each aircraft used by each airline.
+
+To augment the airline-level on the number of seats on each plane, **Wikipedia** fleet descriptions were scraped. `TO ADD`
+
+
+
+These data sets were obtained using the following commands:
 
 ```
 python src/download_otp.py
