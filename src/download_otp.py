@@ -22,7 +22,8 @@ import os
 
 
 def download_otp(url, start_year, end_year):
-
+#     path_parent = os.path.dirname(os.getcwd())
+#     download_path = os.chdir(path_parent)
     # Instantiate browser
     chrome_options = webdriver.ChromeOptions()
     prefs = {'download.default_directory' : os.getcwd()+'/data/otp'}
@@ -89,7 +90,7 @@ def download_otp(url, start_year, end_year):
 
                 #EXECUTE DOWNLOAD
                 download_bt.click()
-                time.sleep(5)
+                time.sleep(15)
             
 
 def aggregate_data(path):
@@ -102,11 +103,13 @@ def aggregate_data(path):
     zip_files = glob.glob(path+'/*.zip')
     for zip_filename in zip_files:
         with zp.ZipFile(zip_filename, "r") as myzip:
+            dir_name = os.path.splitext(zip_filename)[0]
+            os.mkdir(dir_name)
             zip_handler = zp.ZipFile(zip_filename, "r")
-            myzip.extractall(path=path)
+            zip_handler.extractall(dir_name)
 
     # path = dir_name
-    csv_files = glob.glob(path+'/*.csv')
+    csv_files = glob.glob(path+'/*/*.csv')
 
     for csv in csv_files:
         entries.append(pd.read_csv(csv).query('DEST == "ORD"'))
@@ -114,7 +117,7 @@ def aggregate_data(path):
 
 
     combined_csvs = pd.concat(entries)
-    combined_csvs.to_csv('data/ORD_otp.csv')   
+    combined_csvs.to_csv('data/ORD_OTP.csv')   
     
     
     
@@ -128,11 +131,11 @@ def main():
     
     TARGET = 'https://www.transtats.bts.gov/DL_SelectFields.asp?Table_ID=236'
     
-    download_otp(TARGET, 2013, 2020)
+    download_otp(TARGET, 2017, 2018)
     
     aggregate_data('data/otp')
     
-
+    
 # script entry point
 if __name__ == '__main__':
     main()
