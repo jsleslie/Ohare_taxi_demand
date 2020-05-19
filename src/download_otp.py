@@ -131,7 +131,7 @@ def main():
     
     TARGET = 'https://www.transtats.bts.gov/DL_SelectFields.asp?Table_ID=236'
     
-    download_otp(TARGET, 2017, 2018)
+    download_otp(TARGET, 2013, 2020)
     
     aggregate_data('data/otp')
     
