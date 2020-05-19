@@ -17,15 +17,15 @@ import zipfile as zp
 from bs4 import BeautifulSoup
 import time
 import glob
+import os
 
 
 
-
-def download_otp(url):
+def download_otp(url, start_year, end_year):
 
     # Instantiate browser
     chrome_options = webdriver.ChromeOptions()
-    prefs = {'download.default_directory' : '../data/otp/test'}
+    prefs = {'download.default_directory' : os.getcwd()+'/data/otp'}
     chrome_options.add_experimental_option('prefs', prefs)
 
     driver = webdriver.Chrome(chrome_options=chrome_options)
@@ -70,18 +70,26 @@ def download_otp(url):
     #FIND DROPDOWN FOR SELECTABLE YEARS 
     year_sel = driver.find_element_by_id("XYEAR")
     all_years = year_sel.find_elements_by_tag_name("option")
+    targ_years= list(range(start_year,end_year+1,1))
+    
+    month_sel = driver.find_element_by_id("FREQUENCY")
+    all_months = month_sel.find_elements_by_tag_name("option")
 
 
     #OUTER LOOP FOR EACH YEAR
     for year in all_years:
-        if year.get_attribute("value") in targ_years:
-            print("Value is: %s" % year.get_attribute("value"))
+        if int(year.get_attribute("value")) in targ_years:
+            print(year.get_attribute("value"))
             year.click()
+            
+            for month in all_months:
+                month.click()
+                print(month.get_attribute("value"))
 
 
-            #EXECUTE DOWNLOAD
-            download_bt.click()
-            time.sleep(5)
+                #EXECUTE DOWNLOAD
+                download_bt.click()
+                time.sleep(5)
             
 
 def aggregate_data(path):
@@ -112,15 +120,15 @@ def aggregate_data(path):
     
 def main():
     
-    # Set month and year parameters
-    Months = list(range(1,13,1))
-    Months = list(map(str,Months))
-    targ_years= list(range(2013,2020,1))
-    targ_years = list(map(str,targ_years))
+#     # Set month and year parameters
+#     Months = list(range(1,13,1))
+#     Months = list(map(str,Months))
+#     targ_years= list(range(2013,2020,1))
+#     targ_years = list(map(str,targ_years))
     
     TARGET = 'https://www.transtats.bts.gov/DL_SelectFields.asp?Table_ID=236'
     
-    download_otp(TARGET)
+    download_otp(TARGET, 2013, 2020)
     
     aggregate_data('data/otp')
     
