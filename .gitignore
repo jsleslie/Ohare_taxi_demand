@@ -2,6 +2,7 @@
 data/ORD_weather.txt
 data/ORD_OTP.csv
 data/ORD_seats.csv
+data/ORD.csv
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
