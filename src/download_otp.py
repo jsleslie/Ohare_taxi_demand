@@ -18,6 +18,7 @@ from bs4 import BeautifulSoup
 import time
 import glob
 import os
+import shutil
 
 
 
@@ -107,14 +108,10 @@ def aggregate_data(path):
             os.mkdir(dir_name)
             zip_handler = zp.ZipFile(zip_filename, "r")
             zip_handler.extractall(dir_name)
-
-    # path = dir_name
-    csv_files = glob.glob(path+'/*/*.csv')
-
-    for csv in csv_files:
-        entries.append(pd.read_csv(csv).query('DEST == "ORD"'))
-        
-
+            # path = dir_name
+            csv_file = glob.glob(path+'/*/*.csv')
+            entries.append(pd.read_csv(csv_file[0]).query('DEST == "ORD"'))
+            shutil.rmtree(dir_name, ignore_errors=False, onerror=None)
 
     combined_csvs = pd.concat(entries)
     combined_csvs.to_csv('data/ORD_OTP.csv')   
