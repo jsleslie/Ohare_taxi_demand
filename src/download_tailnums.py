@@ -11,6 +11,7 @@ Usage: python download_tailnums.py
 import requests
 from selenium import webdriver
 import pandas as pd
+import time
 
 def extract_tail_info(tails):
     driver = webdriver.Chrome()
@@ -20,7 +21,7 @@ def extract_tail_info(tails):
     count =0
     driver = webdriver.Chrome()
     for tail in tails:
-
+        time.sleep(5)
         try:
             tail = str(tail)
             url_ = 'https://registry.faa.gov/aircraftinquiry/NNum_Results.aspx?NNumbertxt='
@@ -40,7 +41,7 @@ def extract_tail_info(tails):
     
 def main():
     
-    load_ord = pd.read_csv('../data/ORD_OTP.csv')
+    load_ord = pd.read_csv('data/ORD_OTP.csv')
     tail_nums = load_ord['TAIL_NUM'].unique()
     extract_tail_info(tail_nums)
     
